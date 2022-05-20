@@ -12,9 +12,9 @@ A lot of work has been done in the field already. One of the oldest studies date
 
 Building a sustainable subway infrastructure that keeps future expansion, robustness and increased passenger counts into account is key for a well functioning underground public transport system. In this study, the robustness and potential pitfalls of the New York subway network are studied from a mathmatical perspective, using the concepts of advanced network analysis. Additionally, clustering patterns will be uncovered to find out where potential future congestion might occur. 
 
-# Methodology and Data
+# Data and Methodology
 
-/
+In order to analyse the New York subway network, data had to be gathered from several sources, as no readily available network format was available online. Three sources were consulted from the MTA developer page<sub>9</sub>to develop the graph: i) General Transit Feed Specification (GTFS) including data such as routes, stops, transfers, trips and calendar information, ii) stations, and iii) complexes. The lexicon works as follows: A complex facilitates multiple
 
 # Results
 
@@ -39,4 +39,8 @@ Building a sustainable subway infrastructure that keeps future expansion, robust
 
 <sup>8</sup>Forero-Ortiz E, Martínez-Gomariz E, Cañas Porcuna M, Locatelli L, Russo B (2020). Flood Risk Assessment in an Underground Railway System under the Impact of Climate Change—A Case Study of the Barcelona Metro. Sustainability; 12(13):5291. 
 
+<sup>8</sup>http://web.mta.info/developers/developer-data-terms.html#data
 
+# Appendix
+
+![Data_schema](https://github.com/santiag0m/alssn-project/blob/main/data_schema.png)
