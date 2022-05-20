@@ -1,9 +1,42 @@
+# Abstract
+
+...
+
 # Introduction
 
-Here will go the introduction
+The New York City subway network is the largest in the U.S.(12<sup>d</sup> largest in the world), it includes 493 stations, 25 lines and is over 1,100km long<sup>1</sup>. Subway stations are essential in providing sustainable transportation in large cities all over the world, reducing traffic congestion, polution and accidents due to their efficiency and large capacity. In 2019, c. 9.1 million passengers used the subway network on an average weekday. During the recent covid pandemic, this fell back to 3.0 million in 2020 and 5.2 million in 2021, but social distancing and limitting overcrowding of public transport have become increasingly important to look at. Subway networks are very inflexible in this regard. Bus stops can be added easily and even train networks can increase the capacity of train platforms (with proper infrastructure investment) but subways require a lot of planning and very large investment to expand. 
+
+New York has been planning the expansion of its subway station from its onset. In   1929 there was already a proposal to expand the network and increase accessability of northern New York to downtown new York by introduction of a subway line beneath Second Avenue. It took until 2004 before these plans were approved and in 2007 the work on the line started. In January 2017, the Metropolitan Transportation Authority (MTA) opened phase 1 of the Second Avenue Subway, a stretch of subway going from 63d street to 96d street. The purpose of the extension was to have a better connection between Harlem and the rest of New York, easing the conjestion on (one of) the most overcrowded subway lines in the entire U.S., the lexington avenue subway line<sup>2</sup>. Phase 1 of the project had a $4.4 billion cost, for just three new stops. Phase 2, pushing the line up to 125th street, has a projected cost of $6.3 billion<sup>3</sup>. MTA says the project should generate around 300,000 daily riders, shorten commute times by as much as 20 minutes and decrease overall crowding on the 4,5 and 6 lines<sup>4</sup>. 
+
+A lot of work has been done in the field already. One of the oldest studies dates back to 2002, when Latora and Marchiori<sup>5</sup> did a study on the Boston subway system, showing that a closed transportation system can exhibit small-world behavior. in 2010, Derrible and Kennedy<sup>6</sup> did a complexity and robustness analysis of 33 metro networks, finding that most metros are scale-free and small-worlds but that the scale-free property goes away in larger networks, with the inclusion of transfer hubs (more than three lines in one station). Other papers have assessed the robustness of metro networks to random failures and targeted attacks. Wang et al.<sup>7</sup> (2017) find that Rome and Tokyo are the most robust networks out of a sample of 33 metro networks. Rome, because of short transferring and Tokyo because of the large number of transfer stations on the city perifere. Forero-Ortiz et al.<sup>8</sup> (2020) did an assessment of flood risk in the Barcelona metro network in the context of climate change. They discovered that 3 out of the 26 stations reviewed were at high risk of flooding under current weather conditions, but 11 out of 26 will be at high risk in 20 years, given climate change. 
+
+Building a sustainable subway infrastructure that keeps future expansion, robustness and increased passenger counts into account is key for a well functioning underground public transport system. In this study, the robustness and potential pitfalls of the New York subway network are studied from a mathmatical perspective, using the concepts of advanced network analysis. Additionally, clustering patterns will be uncovered to find out where potential future congestion might occur. 
 
 # Methodology and Data
+
+/
 
 # Results
 
 # Conclusion
+
+
+# References
+
+<sup>1</sup>Annual report MTA 2020: https://new.mta.info/document/43191
+
+<sup>2</sup>https://www.nytimes.com/2017/01/01/nyregion/as-second-avenue-subway-opens-a-train-delay-ends-in-happy-tears.html
+
+<sup>3</sup>https://www.nytimes.com/2022/01/31/nyregion/second-avenue-subway-harlem.html?smid=url-share
+
+<sup>4</sup>https://new.mta.info/project/second-avenue-subway-phase-2
+
+<sup>5</sup>V. Latora and M. Marchiori (2002). Is the Boston subway a small-world network? Physica A, 314, pp. 109-113
+
+<sup>6</sup>S. Derrible & C. Kennedy (2010). The complexity and robustness of metro networks. Physica A, 389, pp. 3678-3691.
+
+<sup>7</sup>X. Wang, et al. (2017). Multi-criteria robustness analysis of metro networks. Physica A: Statistical Mechanics and its Applications. 474. 10.1016/j.physa.2017.01.072. 
+
+<sup>8</sup>Forero-Ortiz E, Martínez-Gomariz E, Cañas Porcuna M, Locatelli L, Russo B (2020). Flood Risk Assessment in an Underground Railway System under the Impact of Climate Change—A Case Study of the Barcelona Metro. Sustainability; 12(13):5291. 
+
+
