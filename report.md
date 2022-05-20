@@ -1,5 +1,7 @@
 # Abstract
 
+In this paper we collected data regarding the New York City subway network and transformed it to a graph network format. 
+
 ...
 
 # Introduction
@@ -12,13 +14,30 @@ A lot of work has been done in the field already. One of the oldest studies date
 
 Building a sustainable subway infrastructure that keeps future expansion, robustness and increased passenger counts into account is key for a well functioning underground public transport system. In this study, the robustness and potential pitfalls of the New York subway network are studied from a mathmatical perspective, using the concepts of advanced network analysis. Additionally, clustering patterns will be uncovered to find out where potential future congestion might occur. 
 
-# Data and Methodology
+# Data
 
-In order to analyse the New York subway network, data had to be gathered from several sources, as no readily available network format was available online. Three sources were consulted from the MTA developer page<sub>9</sub>to develop the graph: i) General Transit Feed Specification (GTFS) including data such as routes, stops, transfers, trips and calendar information, ii) stations, and iii) complexes. The lexicon works as follows: A complex facilitates multiple
+## Data collection
+
+In order to analyse the New York subway network, data had to be gathered from several sources, as no readily available network format was available online. Three sources were consulted from the MTA developer page<sub>9</sub>to develop the graph: i) General Transit Feed Specification (GTFS) including data such as routes, stops, transfers, trips and calendar information, ii) stations, and iii) complexes. The lexicon works as follows: A complex facilitates multiple stations connected with a passageway inside fare control and serve as transfer stations. There are 32 complexes included in the dataset. A Station serves one line and has 2 stops, one going in each direction. The data also includes time related data to measure how many times a trip is done each day, what trains pass each station and at what time. An overview of the data and how the different sources connect with each other can be found in appendix 1.
+
+## Graph
+
+The graph is made by first aggregating the stations at the complex level. 
+
+# Methodology
+
+## Graph characteristics
+
+## Robustness
+
+## Clustering
 
 # Results
 
+
+
 # Conclusion
+
 
 
 # References
@@ -42,5 +61,7 @@ In order to analyse the New York subway network, data had to be gathered from se
 <sup>8</sup>http://web.mta.info/developers/developer-data-terms.html#data
 
 # Appendix
+
+## Appendix 1: Data schema
 
 ![Data_schema](https://github.com/santiag0m/alssn-project/blob/main/data_schema.png)
