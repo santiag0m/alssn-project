@@ -1,0 +1,9 @@
+# python=3.7
+# * To install geopandas on windows check: https://stackoverflow.com/a/63633159
+# * To install igraph make sure to have cairo installed, can be done with conda
+#   using `conda install cairo`
+geopandas==0.10.2
+python-igraph==0.9.10
+cairocffi==1.3.0
+plotly==5.8.0
+matplotlib==3.5.2
