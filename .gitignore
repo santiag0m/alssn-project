@@ -1,14 +1,7 @@
 secrets.txt
 
-# Dataset files
-agency.txt
-calendar.txt
-calendar_dates.txt
-routes.txt
-shapes.txt
-stops.txt
-stop_times.txt
-transfers.txt
-trips.txt
-complexes.csv
-stations.csv
+# Notebook outputs
+notebooks/*.png
+notebooks/*.txt
+notebooks/*.csv
+notebooks/*.gml
