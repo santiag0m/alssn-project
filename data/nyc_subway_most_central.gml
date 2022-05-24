@@ -1,4 +1,4 @@
-Creator "igraph version 0.9.6-57-g20016f189 Tue May 24 15:00:18 2022"
+Creator "igraph version 0.9.6-57-g20016f189 Tue May 24 16:45:12 2022"
 Version 1
 graph
 [
@@ -351,8 +351,8 @@ graph
     latitude 40.616622
     longitude -74.030876
     displayname "Bay Ridge-95 St"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -728,8 +728,8 @@ graph
     latitude 40.588841
     longitude -73.983765
     displayname "Bay 50 St"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -832,8 +832,8 @@ graph
     latitude 40.592721
     longitude -73.97823
     displayname "86 St"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -910,8 +910,8 @@ graph
     latitude 40.691324
     longitude -73.867139
     displayname "75 St-Elderts Ln"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -1105,8 +1105,8 @@ graph
     latitude 40.708359
     longitude -73.957757
     displayname "Marcy Av"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -1183,8 +1183,8 @@ graph
     latitude 40.702762
     longitude -73.90774
     displayname "Seneca Av"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -1209,8 +1209,8 @@ graph
     latitude 40.697857
     longitude -73.927397
     displayname "Central Av"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -1235,8 +1235,8 @@ graph
     latitude 40.730953
     longitude -73.981628
     displayname "1 Av"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -1339,8 +1339,8 @@ graph
     latitude 40.695602
     longitude -73.904084
     displayname "Halsey St"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -1443,8 +1443,8 @@ graph
     latitude 40.646654
     longitude -73.90185
     displayname "Canarsie-Rockaway Pkwy"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -1937,8 +1937,8 @@ graph
     latitude 40.677044
     longitude -73.86505
     displayname "Grant Av"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -2015,8 +2015,8 @@ graph
     latitude 40.685951
     longitude -73.825798
     displayname "Ozone Park-Lefferts Blvd"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -2119,8 +2119,8 @@ graph
     latitude 40.580903
     longitude -73.835592
     displayname "Rockaway Park-Beach 116 St"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -2197,8 +2197,8 @@ graph
     latitude 40.603995
     longitude -73.755405
     displayname "Far Rockaway-Mott Av"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -2327,8 +2327,8 @@ graph
     latitude 40.830135
     longitude -73.938209
     displayname "155 St"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -2678,8 +2678,8 @@ graph
     latitude 40.581011
     longitude -73.974574
     displayname "Neptune Av"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -2990,8 +2990,8 @@ graph
     latitude 40.702566
     longitude -73.816859
     displayname "Jamaica-Van Wyck"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -3120,8 +3120,8 @@ graph
     latitude 40.687119
     longitude -73.975375
     displayname "Fulton St"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -3159,8 +3159,8 @@ graph
     latitude 40.878856
     longitude -73.904834
     displayname "231 St"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -3770,8 +3770,8 @@ graph
     latitude 40.666235
     longitude -73.884079
     displayname "New Lots Av"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -3861,8 +3861,8 @@ graph
     latitude 40.632836
     longitude -73.947642
     displayname "Flatbush Av-Brooklyn College"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -4095,8 +4095,8 @@ graph
     latitude 40.810476
     longitude -73.926138
     displayname "3 Av-138 St"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -4446,8 +4446,8 @@ graph
     latitude 40.704817
     longitude -74.014065
     displayname "Bowling Green"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -4771,8 +4771,8 @@ graph
     latitude 40.799075
     longitude -73.951822
     displayname "Central Park North (110 St)"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -4836,8 +4836,8 @@ graph
     latitude 40.854364
     longitude -73.860495
     displayname "Morris Park"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5044,8 +5044,8 @@ graph
     latitude 40.742626
     longitude -73.953581
     displayname "Vernon Blvd-Jackson Av"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5096,8 +5096,8 @@ graph
     latitude 40.768799
     longitude -73.958424
     displayname "72 St"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5369,8 +5369,8 @@ graph
     latitude 40.516578
     longitude -74.242096
     displayname "Arthur Kill"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5421,8 +5421,8 @@ graph
     latitude 40.8279495
     longitude -73.925741
     displayname "161 St - Yankee Stadium"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5434,8 +5434,8 @@ graph
     latitude 40.8406375
     longitude -73.939847
     displayname "168 St - Washington Hts"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5447,8 +5447,8 @@ graph
     latitude 40.747141
     longitude -73.945032
     displayname "Court Sq - 23 St"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5473,8 +5473,8 @@ graph
     latitude 40.6705595
     longitude -73.9890405
     displayname "4 Av - 9 St"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5538,8 +5538,8 @@ graph
     latitude 40.762593
     longitude -73.9676125
     displayname "Lexington Av / 59 St"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5551,8 +5551,8 @@ graph
     latitude 40.7682715
     longitude -73.9818325
     displayname "59 St - Columbus Circle"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5564,8 +5564,8 @@ graph
     latitude 40.625657
     longitude -73.996624
     displayname "62 St / New Utrecht Av"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5577,8 +5577,8 @@ graph
     latitude 40.746746
     longitude -73.891366
     displayname "Jackson Hts-Roosevelt Av / 74 St"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5603,8 +5603,8 @@ graph
     latitude 40.740335
     longitude -74.002134
     displayname "14 St / 8 Av"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5642,8 +5642,8 @@ graph
     latitude 40.678896
     longitude -73.904356
     displayname "Broadway Junction"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5668,8 +5668,8 @@ graph
     latitude 40.71870125
     longitude -74.00058
     displayname "Canal St"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5694,8 +5694,8 @@ graph
     latitude 40.718463
     longitude -73.9877755
     displayname "Delancey St / Essex St"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5707,8 +5707,8 @@ graph
     latitude 40.6705125
     longitude -73.958688
     displayname "Franklin Av-Medgar Evers College / Botanic Garden"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5720,8 +5720,8 @@ graph
     latitude 40.680988
     longitude -73.9563375
     displayname "Franklin Av"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5733,8 +5733,8 @@ graph
     latitude 40.71008875
     longitude -74.00783825
     displayname "Fulton St"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5746,8 +5746,8 @@ graph
     latitude 40.7134275
     longitude -73.9508465
     displayname "Metropolitan Av / Lorimer St"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5759,8 +5759,8 @@ graph
     latitude 40.699622
     longitude -73.9119855
     displayname "Myrtle - Wyckoff Avs"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5772,8 +5772,8 @@ graph
     latitude 40.7025775
     longitude -74.013329
     displayname "South Ferry / Whitehall"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   node
   [
@@ -5785,8 +5785,8 @@ graph
     latitude 40.692259
     longitude -73.986642
     displayname "Jay St - MetroTech"
-    participation NaN
-    zscore NaN
+    participation 0
+    zscore 0
   ]
   edge
   [
