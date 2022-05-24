@@ -18,11 +18,19 @@ Building a sustainable subway infrastructure that keeps future expansion, robust
 
 ## Data collection
 
-In order to analyse the New York subway network, data had to be gathered from several sources, as no readily available network format was available online. Three sources were consulted from the MTA developer page<sub>9</sub>to develop the graph: i) General Transit Feed Specification (GTFS) including data such as routes, stops, transfers, trips and calendar information, ii) stations, and iii) complexes. The lexicon works as follows: A complex facilitates multiple stations connected with a passageway inside fare control and serve as transfer stations. There are 32 complexes included in the dataset. A Station serves one line and has 2 stops, one going in each direction. The data also includes time related data to measure how many times a trip is done each day, what trains pass each station and at what time. An overview of the data and how the different sources connect with each other can be found in appendix 1.
+In order to analyse the New York subway network, data had to be gathered from several sources, as no readily available network format was available online. Three sources were consulted from the MTA developer page<sup>9</sup>to develop the graph: i) General Transit Feed Specification (GTFS) including data such as routes, stops, transfers, trips and calendar information, ii) stations, and iii) complexes. The lexicon works as follows: A complex facilitates multiple stations connected with a passageway inside fare control and serves as a transfer station. There are 32 complexes included in the dataset. Not all stations are part of a complex, a Station serves one line and has 2 stops, one going in each direction. The dataset includes a total of 496 stations (which is 3 more than what is mentioned in the MTA annual report, but that one dates back 2 years). The data also includes time related data to measure how many times a trip is done each day, what trains pass each station and at what time. An overview of the data and how the different sources connect with each other can be found in appendix 1<sup>a</sup>. 
 
-## Graph
+<sup>a</sup>Additionally, the reader is referred to https://developers.google.com/transit/gtfs/reference for a more detailed explanation regarding the lexicon.
 
-The graph is made by first aggregating the stations at the complex level. 
+## The network
+
+The graph is made by first aggregating the stations at the complex level. This way, all stations follow the same hierarchy and have the same top level, and clustering of stations can be studied more easily. Additionally, when checking for robustness of the network one can assume that if a part of a complex is out because of an attack on the network (or a random failure) that the other parts of the complex are also out. The complexes are then used as the nodes of the network. In total there are 445 remaining nodes after aggregating stations based on complexes and creating complexes for stand-alone stations. Next, the edges are created. Even though the subway can go in two directions, the decision was made to make the edges undirected in the network. This is done because every single track goes in both directions, so all links between the nodes are directed in both directions. 
+
+Several properties are also included in the graph. First, the graph is weighted based on the number of trains that pass through the network every week. Both the nodes and the edges get this property. Second, the borough (The Bronx, Brooklyn, Manhattan, Queens and Staten Island) in which each of the nodes is located is included, and last the geographical coordinates (lattitude and longitude) of the nodes. The below figure shows a first rendition of the network. The lay-out is based on the geographical coördinates, the colouring scheme is based on the boroughs, and the node and edge sizes are based on the number of trains that pass.
+
+![image](https://user-images.githubusercontent.com/101331875/170033278-af98b507-6543-4985-b28e-97211176e481.png)
+
+Note that there are also edges between nodes that are further away. These edges represent direct lines that skip a couple of stations (Staten Island for example clearly has this for two stations, going in a direct line to the last stop at the ferry). This has implications for the robustness analysis later on, 
 
 # Methodology
 
@@ -30,10 +38,12 @@ The graph is made by first aggregating the stations at the complex level.
 
 ## Robustness
 
-## Clustering
 
 # Results
 
+## Graph characteristics
+
+## Robustness
 
 
 # Conclusion
