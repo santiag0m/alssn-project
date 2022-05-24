@@ -1,4 +1,4 @@
-Creator "igraph version 0.9.8 Fri May 20 15:21:05 2022"
+Creator "igraph version 0.9.6-57-g20016f189 Tue May 24 14:23:23 2022"
 Version 1
 graph
 [
@@ -12,6 +12,7 @@ graph
     color "Orange"
     latitude 40.775036
     longitude -73.912034
+    displayname "Astoria-Ditmars Blvd"
   ]
   node
   [
@@ -22,6 +23,7 @@ graph
     color "Orange"
     latitude 40.770258
     longitude -73.917843
+    displayname "Astoria Blvd"
   ]
   node
   [
@@ -32,6 +34,7 @@ graph
     color "Orange"
     latitude 40.766779
     longitude -73.921479
+    displayname "30 Av"
   ]
   node
   [
@@ -42,6 +45,7 @@ graph
     color "Orange"
     latitude 40.76182
     longitude -73.925508
+    displayname "Broadway"
   ]
   node
   [
@@ -52,6 +56,7 @@ graph
     color "Orange"
     latitude 40.756804
     longitude -73.929575
+    displayname "36 Av"
   ]
   node
   [
@@ -62,6 +67,7 @@ graph
     color "Orange"
     latitude 40.752882
     longitude -73.932755
+    displayname "39 Av-Dutch Kills"
   ]
   node
   [
@@ -72,6 +78,7 @@ graph
     color "Crimson"
     latitude 40.764811
     longitude -73.973347
+    displayname "5 Av/59 St"
   ]
   node
   [
@@ -82,6 +89,7 @@ graph
     color "Crimson"
     latitude 40.764664
     longitude -73.980658
+    displayname "57 St-7 Av"
   ]
   node
   [
@@ -92,6 +100,7 @@ graph
     color "Crimson"
     latitude 40.759901
     longitude -73.984139
+    displayname "49 St"
   ]
   node
   [
@@ -102,6 +111,7 @@ graph
     color "Crimson"
     latitude 40.745494
     longitude -73.988691
+    displayname "28 St"
   ]
   node
   [
@@ -112,6 +122,7 @@ graph
     color "Crimson"
     latitude 40.741303
     longitude -73.989344
+    displayname "23 St"
   ]
   node
   [
@@ -122,6 +133,7 @@ graph
     color "Crimson"
     latitude 40.730328
     longitude -73.992629
+    displayname "8 St-NYU"
   ]
   node
   [
@@ -132,6 +144,7 @@ graph
     color "Crimson"
     latitude 40.724329
     longitude -73.997702
+    displayname "Prince St"
   ]
   node
   [
@@ -142,6 +155,7 @@ graph
     color "Crimson"
     latitude 40.713282
     longitude -74.006978
+    displayname "City Hall"
   ]
   node
   [
@@ -152,6 +166,7 @@ graph
     color "Crimson"
     latitude 40.70722
     longitude -74.013342
+    displayname "Rector St"
   ]
   node
   [
@@ -162,6 +177,7 @@ graph
     color "Steel Blue"
     latitude 40.690635
     longitude -73.981824
+    displayname "DeKalb Av"
   ]
   node
   [
@@ -172,6 +188,7 @@ graph
     color "Steel Blue"
     latitude 40.677316
     longitude -73.98311
+    displayname "Union St"
   ]
   node
   [
@@ -182,6 +199,7 @@ graph
     color "Steel Blue"
     latitude 40.665414
     longitude -73.992872
+    displayname "Prospect Av"
   ]
   node
   [
@@ -192,6 +210,7 @@ graph
     color "Steel Blue"
     latitude 40.660397
     longitude -73.998091
+    displayname "25 St"
   ]
   node
   [
@@ -202,6 +221,7 @@ graph
     color "Steel Blue"
     latitude 40.655144
     longitude -74.003549
+    displayname "36 St"
   ]
   node
   [
@@ -212,6 +232,7 @@ graph
     color "Steel Blue"
     latitude 40.648939
     longitude -74.010006
+    displayname "45 St"
   ]
   node
   [
@@ -222,6 +243,7 @@ graph
     color "Steel Blue"
     latitude 40.645069
     longitude -74.014034
+    displayname "53 St"
   ]
   node
   [
@@ -232,6 +254,7 @@ graph
     color "Steel Blue"
     latitude 40.641362
     longitude -74.017881
+    displayname "59 St"
   ]
   node
   [
@@ -242,6 +265,7 @@ graph
     color "Steel Blue"
     latitude 40.634967
     longitude -74.023377
+    displayname "Bay Ridge Av"
   ]
   node
   [
@@ -252,6 +276,7 @@ graph
     color "Steel Blue"
     latitude 40.629742
     longitude -74.02551
+    displayname "77 St"
   ]
   node
   [
@@ -262,6 +287,7 @@ graph
     color "Steel Blue"
     latitude 40.622687
     longitude -74.028398
+    displayname "86 St"
   ]
   node
   [
@@ -272,6 +298,7 @@ graph
     color "Steel Blue"
     latitude 40.616622
     longitude -74.030876
+    displayname "Bay Ridge-95 St"
   ]
   node
   [
@@ -282,6 +309,7 @@ graph
     color "Steel Blue"
     latitude 40.67705
     longitude -73.972367
+    displayname "7 Av"
   ]
   node
   [
@@ -292,6 +320,7 @@ graph
     color "Steel Blue"
     latitude 40.661614
     longitude -73.962246
+    displayname "Prospect Park"
   ]
   node
   [
@@ -302,6 +331,7 @@ graph
     color "Steel Blue"
     latitude 40.655292
     longitude -73.961495
+    displayname "Parkside Av"
   ]
   node
   [
@@ -312,6 +342,7 @@ graph
     color "Steel Blue"
     latitude 40.650527
     longitude -73.962982
+    displayname "Church Av"
   ]
   node
   [
@@ -322,6 +353,7 @@ graph
     color "Steel Blue"
     latitude 40.644031
     longitude -73.964492
+    displayname "Beverley Rd"
   ]
   node
   [
@@ -332,6 +364,7 @@ graph
     color "Steel Blue"
     latitude 40.640927
     longitude -73.963891
+    displayname "Cortelyou Rd"
   ]
   node
   [
@@ -342,6 +375,7 @@ graph
     color "Steel Blue"
     latitude 40.635082
     longitude -73.962793
+    displayname "Newkirk Plaza"
   ]
   node
   [
@@ -352,6 +386,7 @@ graph
     color "Steel Blue"
     latitude 40.62927
     longitude -73.961639
+    displayname "Avenue H"
   ]
   node
   [
@@ -362,6 +397,7 @@ graph
     color "Steel Blue"
     latitude 40.625039
     longitude -73.960803
+    displayname "Avenue J"
   ]
   node
   [
@@ -372,6 +408,7 @@ graph
     color "Steel Blue"
     latitude 40.617618
     longitude -73.959399
+    displayname "Avenue M"
   ]
   node
   [
@@ -382,6 +419,7 @@ graph
     color "Steel Blue"
     latitude 40.60867
     longitude -73.957734
+    displayname "Kings Hwy"
   ]
   node
   [
@@ -392,6 +430,7 @@ graph
     color "Steel Blue"
     latitude 40.5993
     longitude -73.955929
+    displayname "Avenue U"
   ]
   node
   [
@@ -402,6 +441,7 @@ graph
     color "Steel Blue"
     latitude 40.595246
     longitude -73.955161
+    displayname "Neck Rd"
   ]
   node
   [
@@ -412,6 +452,7 @@ graph
     color "Steel Blue"
     latitude 40.586896
     longitude -73.954155
+    displayname "Sheepshead Bay"
   ]
   node
   [
@@ -422,6 +463,7 @@ graph
     color "Steel Blue"
     latitude 40.577621
     longitude -73.961376
+    displayname "Brighton Beach"
   ]
   node
   [
@@ -432,6 +474,7 @@ graph
     color "Steel Blue"
     latitude 40.576312
     longitude -73.968501
+    displayname "Ocean Pkwy"
   ]
   node
   [
@@ -442,6 +485,7 @@ graph
     color "Steel Blue"
     latitude 40.576127
     longitude -73.975939
+    displayname "W 8 St-NY Aquarium"
   ]
   node
   [
@@ -452,6 +496,7 @@ graph
     color "Steel Blue"
     latitude 40.577422
     longitude -73.981233
+    displayname "Coney Island-Stillwell Av"
   ]
   node
   [
@@ -462,6 +507,7 @@ graph
     color "Steel Blue"
     latitude 40.646292
     longitude -73.994324
+    displayname "9 Av"
   ]
   node
   [
@@ -472,6 +518,7 @@ graph
     color "Steel Blue"
     latitude 40.640914
     longitude -73.994304
+    displayname "Fort Hamilton Pkwy"
   ]
   node
   [
@@ -482,6 +529,7 @@ graph
     color "Steel Blue"
     latitude 40.63626
     longitude -73.994791
+    displayname "50 St"
   ]
   node
   [
@@ -492,6 +540,7 @@ graph
     color "Steel Blue"
     latitude 40.631435
     longitude -73.995476
+    displayname "55 St"
   ]
   node
   [
@@ -502,6 +551,7 @@ graph
     color "Steel Blue"
     latitude 40.619589
     longitude -73.998864
+    displayname "71 St"
   ]
   node
   [
@@ -512,6 +562,7 @@ graph
     color "Steel Blue"
     latitude 40.613501
     longitude -74.00061
+    displayname "79 St"
   ]
   node
   [
@@ -522,6 +573,7 @@ graph
     color "Steel Blue"
     latitude 40.607954
     longitude -74.001736
+    displayname "18 Av"
   ]
   node
   [
@@ -532,6 +584,7 @@ graph
     color "Steel Blue"
     latitude 40.604556
     longitude -73.998168
+    displayname "20 Av"
   ]
   node
   [
@@ -542,6 +595,7 @@ graph
     color "Steel Blue"
     latitude 40.601875
     longitude -73.993728
+    displayname "Bay Pkwy"
   ]
   node
   [
@@ -552,6 +606,7 @@ graph
     color "Steel Blue"
     latitude 40.597704
     longitude -73.986829
+    displayname "25 Av"
   ]
   node
   [
@@ -562,6 +617,7 @@ graph
     color "Steel Blue"
     latitude 40.588841
     longitude -73.983765
+    displayname "Bay 50 St"
   ]
   node
   [
@@ -572,6 +628,7 @@ graph
     color "Steel Blue"
     latitude 40.635064
     longitude -74.011719
+    displayname "8 Av"
   ]
   node
   [
@@ -582,6 +639,7 @@ graph
     color "Steel Blue"
     latitude 40.631386
     longitude -74.005351
+    displayname "Fort Hamilton Pkwy"
   ]
   node
   [
@@ -592,6 +650,7 @@ graph
     color "Steel Blue"
     latitude 40.620671
     longitude -73.990414
+    displayname "18 Av"
   ]
   node
   [
@@ -602,6 +661,7 @@ graph
     color "Steel Blue"
     latitude 40.61741
     longitude -73.985026
+    displayname "20 Av"
   ]
   node
   [
@@ -612,6 +672,7 @@ graph
     color "Steel Blue"
     latitude 40.611815
     longitude -73.981848
+    displayname "Bay Pkwy"
   ]
   node
   [
@@ -622,6 +683,7 @@ graph
     color "Steel Blue"
     latitude 40.603923
     longitude -73.980353
+    displayname "Kings Hwy"
   ]
   node
   [
@@ -632,6 +694,7 @@ graph
     color "Steel Blue"
     latitude 40.597473
     longitude -73.979137
+    displayname "Avenue U"
   ]
   node
   [
@@ -642,6 +705,7 @@ graph
     color "Steel Blue"
     latitude 40.592721
     longitude -73.97823
+    displayname "86 St"
   ]
   node
   [
@@ -652,6 +716,7 @@ graph
     color "Orange"
     latitude 40.700492
     longitude -73.828294
+    displayname "121 St"
   ]
   node
   [
@@ -662,6 +727,7 @@ graph
     color "Orange"
     latitude 40.697418
     longitude -73.836345
+    displayname "111 St"
   ]
   node
   [
@@ -672,6 +738,7 @@ graph
     color "Orange"
     latitude 40.695178
     longitude -73.84433
+    displayname "104 St"
   ]
   node
   [
@@ -682,6 +749,7 @@ graph
     color "Orange"
     latitude 40.693879
     longitude -73.851576
+    displayname "Woodhaven Blvd"
   ]
   node
   [
@@ -692,6 +760,7 @@ graph
     color "Orange"
     latitude 40.692435
     longitude -73.86001
+    displayname "85 St-Forest Pkwy"
   ]
   node
   [
@@ -702,6 +771,7 @@ graph
     color "Orange"
     latitude 40.691324
     longitude -73.867139
+    displayname "75 St-Elderts Ln"
   ]
   node
   [
@@ -712,6 +782,7 @@ graph
     color "Steel Blue"
     latitude 40.689941
     longitude -73.87255
+    displayname "Cypress Hills"
   ]
   node
   [
@@ -722,6 +793,7 @@ graph
     color "Steel Blue"
     latitude 40.683194
     longitude -73.873785
+    displayname "Crescent St"
   ]
   node
   [
@@ -732,6 +804,7 @@ graph
     color "Steel Blue"
     latitude 40.68141
     longitude -73.880039
+    displayname "Norwood Av"
   ]
   node
   [
@@ -742,6 +815,7 @@ graph
     color "Steel Blue"
     latitude 40.679947
     longitude -73.884639
+    displayname "Cleveland St"
   ]
   node
   [
@@ -752,6 +826,7 @@ graph
     color "Steel Blue"
     latitude 40.678024
     longitude -73.891688
+    displayname "Van Siclen Av"
   ]
   node
   [
@@ -762,6 +837,7 @@ graph
     color "Steel Blue"
     latitude 40.676992
     longitude -73.898654
+    displayname "Alabama Av"
   ]
   node
   [
@@ -772,6 +848,7 @@ graph
     color "Steel Blue"
     latitude 40.682893
     longitude -73.910456
+    displayname "Chauncey St"
   ]
   node
   [
@@ -782,6 +859,7 @@ graph
     color "Steel Blue"
     latitude 40.68637
     longitude -73.916559
+    displayname "Halsey St"
   ]
   node
   [
@@ -792,6 +870,7 @@ graph
     color "Steel Blue"
     latitude 40.68963
     longitude -73.92227
+    displayname "Gates Av"
   ]
   node
   [
@@ -802,6 +881,7 @@ graph
     color "Steel Blue"
     latitude 40.693342
     longitude -73.928814
+    displayname "Kosciuszko St"
   ]
   node
   [
@@ -812,6 +892,7 @@ graph
     color "Steel Blue"
     latitude 40.697207
     longitude -73.935657
+    displayname "Myrtle Av"
   ]
   node
   [
@@ -822,6 +903,7 @@ graph
     color "Steel Blue"
     latitude 40.70026
     longitude -73.941126
+    displayname "Flushing Av"
   ]
   node
   [
@@ -832,6 +914,7 @@ graph
     color "Steel Blue"
     latitude 40.703869
     longitude -73.947408
+    displayname "Lorimer St"
   ]
   node
   [
@@ -842,6 +925,7 @@ graph
     color "Steel Blue"
     latitude 40.70687
     longitude -73.953431
+    displayname "Hewes St"
   ]
   node
   [
@@ -852,6 +936,7 @@ graph
     color "Steel Blue"
     latitude 40.708359
     longitude -73.957757
+    displayname "Marcy Av"
   ]
   node
   [
@@ -862,6 +947,7 @@ graph
     color "Crimson"
     latitude 40.72028
     longitude -73.993915
+    displayname "Bowery"
   ]
   node
   [
@@ -872,6 +958,7 @@ graph
     color "Crimson"
     latitude 40.706476
     longitude -74.011056
+    displayname "Broad St"
   ]
   node
   [
@@ -882,6 +969,7 @@ graph
     color "Orange"
     latitude 40.711396
     longitude -73.889601
+    displayname "Middle Village-Metropolitan Av"
   ]
   node
   [
@@ -892,6 +980,7 @@ graph
     color "Orange"
     latitude 40.706186
     longitude -73.895877
+    displayname "Fresh Pond Rd"
   ]
   node
   [
@@ -902,6 +991,7 @@ graph
     color "Orange"
     latitude 40.704423
     longitude -73.903077
+    displayname "Forest Av"
   ]
   node
   [
@@ -912,6 +1002,7 @@ graph
     color "Orange"
     latitude 40.702762
     longitude -73.90774
+    displayname "Seneca Av"
   ]
   node
   [
@@ -922,6 +1013,7 @@ graph
     color "Steel Blue"
     latitude 40.698664
     longitude -73.919711
+    displayname "Knickerbocker Av"
   ]
   node
   [
@@ -932,6 +1024,7 @@ graph
     color "Steel Blue"
     latitude 40.697857
     longitude -73.927397
+    displayname "Central Av"
   ]
   node
   [
@@ -942,6 +1035,7 @@ graph
     color "Crimson"
     latitude 40.732849
     longitude -73.986122
+    displayname "3 Av"
   ]
   node
   [
@@ -952,6 +1046,7 @@ graph
     color "Crimson"
     latitude 40.730953
     longitude -73.981628
+    displayname "1 Av"
   ]
   node
   [
@@ -962,6 +1057,7 @@ graph
     color "Steel Blue"
     latitude 40.717304
     longitude -73.956872
+    displayname "Bedford Av"
   ]
   node
   [
@@ -972,6 +1068,7 @@ graph
     color "Steel Blue"
     latitude 40.714565
     longitude -73.944053
+    displayname "Graham Av"
   ]
   node
   [
@@ -982,6 +1079,7 @@ graph
     color "Steel Blue"
     latitude 40.711926
     longitude -73.94067
+    displayname "Grand St"
   ]
   node
   [
@@ -992,6 +1090,7 @@ graph
     color "Steel Blue"
     latitude 40.707739
     longitude -73.93985
+    displayname "Montrose Av"
   ]
   node
   [
@@ -1002,6 +1101,7 @@ graph
     color "Steel Blue"
     latitude 40.706152
     longitude -73.933147
+    displayname "Morgan Av"
   ]
   node
   [
@@ -1012,6 +1112,7 @@ graph
     color "Steel Blue"
     latitude 40.706607
     longitude -73.922913
+    displayname "Jefferson St"
   ]
   node
   [
@@ -1022,6 +1123,7 @@ graph
     color "Steel Blue"
     latitude 40.703811
     longitude -73.918425
+    displayname "DeKalb Av"
   ]
   node
   [
@@ -1032,6 +1134,7 @@ graph
     color "Orange"
     latitude 40.695602
     longitude -73.904084
+    displayname "Halsey St"
   ]
   node
   [
@@ -1042,6 +1145,7 @@ graph
     color "Steel Blue"
     latitude 40.688764
     longitude -73.904046
+    displayname "Wilson Av"
   ]
   node
   [
@@ -1052,6 +1156,7 @@ graph
     color "Steel Blue"
     latitude 40.682829
     longitude -73.905249
+    displayname "Bushwick Av-Aberdeen St"
   ]
   node
   [
@@ -1062,6 +1167,7 @@ graph
     color "Steel Blue"
     latitude 40.675345
     longitude -73.903097
+    displayname "Atlantic Av"
   ]
   node
   [
@@ -1072,6 +1178,7 @@ graph
     color "Steel Blue"
     latitude 40.669367
     longitude -73.901975
+    displayname "Sutter Av"
   ]
   node
   [
@@ -1082,6 +1189,7 @@ graph
     color "Steel Blue"
     latitude 40.664038
     longitude -73.900571
+    displayname "Livonia Av"
   ]
   node
   [
@@ -1092,6 +1200,7 @@ graph
     color "Steel Blue"
     latitude 40.658733
     longitude -73.899232
+    displayname "New Lots Av"
   ]
   node
   [
@@ -1102,6 +1211,7 @@ graph
     color "Steel Blue"
     latitude 40.650573
     longitude -73.899485
+    displayname "East 105 St"
   ]
   node
   [
@@ -1112,6 +1222,7 @@ graph
     color "Steel Blue"
     latitude 40.646654
     longitude -73.90185
+    displayname "Canarsie-Rockaway Pkwy"
   ]
   node
   [
@@ -1122,6 +1233,7 @@ graph
     color "Steel Blue"
     latitude 40.674772
     longitude -73.957624
+    displayname "Park Pl"
   ]
   node
   [
@@ -1132,6 +1244,7 @@ graph
     color "Crimson"
     latitude 40.868072
     longitude -73.919899
+    displayname "Inwood-207 St"
   ]
   node
   [
@@ -1142,6 +1255,7 @@ graph
     color "Crimson"
     latitude 40.865491
     longitude -73.927271
+    displayname "Dyckman St"
   ]
   node
   [
@@ -1152,6 +1266,7 @@ graph
     color "Crimson"
     latitude 40.859022
     longitude -73.93418
+    displayname "190 St"
   ]
   node
   [
@@ -1162,6 +1277,7 @@ graph
     color "Crimson"
     latitude 40.851695
     longitude -73.937969
+    displayname "181 St"
   ]
   node
   [
@@ -1172,6 +1288,7 @@ graph
     color "Crimson"
     latitude 40.847391
     longitude -73.939704
+    displayname "175 St"
   ]
   node
   [
@@ -1182,6 +1299,7 @@ graph
     color "Crimson"
     latitude 40.836013
     longitude -73.939892
+    displayname "163 St-Amsterdam Av"
   ]
   node
   [
@@ -1192,6 +1310,7 @@ graph
     color "Crimson"
     latitude 40.830518
     longitude -73.941514
+    displayname "155 St"
   ]
   node
   [
@@ -1202,6 +1321,7 @@ graph
     color "Crimson"
     latitude 40.824783
     longitude -73.944216
+    displayname "145 St"
   ]
   node
   [
@@ -1212,6 +1332,7 @@ graph
     color "Crimson"
     latitude 40.817894
     longitude -73.947649
+    displayname "135 St"
   ]
   node
   [
@@ -1222,6 +1343,7 @@ graph
     color "Crimson"
     latitude 40.811109
     longitude -73.952343
+    displayname "125 St"
   ]
   node
   [
@@ -1232,6 +1354,7 @@ graph
     color "Crimson"
     latitude 40.805085
     longitude -73.954882
+    displayname "116 St"
   ]
   node
   [
@@ -1242,6 +1365,7 @@ graph
     color "Crimson"
     latitude 40.800603
     longitude -73.958161
+    displayname "Cathedral Pkwy (110 St)"
   ]
   node
   [
@@ -1252,6 +1376,7 @@ graph
     color "Crimson"
     latitude 40.796092
     longitude -73.961454
+    displayname "103 St"
   ]
   node
   [
@@ -1262,6 +1387,7 @@ graph
     color "Crimson"
     latitude 40.791642
     longitude -73.964696
+    displayname "96 St"
   ]
   node
   [
@@ -1272,6 +1398,7 @@ graph
     color "Crimson"
     latitude 40.785868
     longitude -73.968916
+    displayname "86 St"
   ]
   node
   [
@@ -1282,6 +1409,7 @@ graph
     color "Crimson"
     latitude 40.781433
     longitude -73.972143
+    displayname "81 St-Museum of Natural History"
   ]
   node
   [
@@ -1292,6 +1420,7 @@ graph
     color "Crimson"
     latitude 40.775594
     longitude -73.97641
+    displayname "72 St"
   ]
   node
   [
@@ -1302,6 +1431,7 @@ graph
     color "Crimson"
     latitude 40.762456
     longitude -73.985984
+    displayname "50 St"
   ]
   node
   [
@@ -1312,6 +1442,7 @@ graph
     color "Crimson"
     latitude 40.752287
     longitude -73.993391
+    displayname "34 St-Penn Station"
   ]
   node
   [
@@ -1322,6 +1453,7 @@ graph
     color "Crimson"
     latitude 40.745906
     longitude -73.998041
+    displayname "23 St"
   ]
   node
   [
@@ -1332,6 +1464,7 @@ graph
     color "Crimson"
     latitude 40.732338
     longitude -74.000495
+    displayname "W 4 St-Wash Sq"
   ]
   node
   [
@@ -1342,6 +1475,7 @@ graph
     color "Crimson"
     latitude 40.726227
     longitude -74.003739
+    displayname "Spring St"
   ]
   node
   [
@@ -1352,6 +1486,7 @@ graph
     color "Crimson"
     latitude 40.720824
     longitude -74.005229
+    displayname "Canal St"
   ]
   node
   [
@@ -1362,6 +1497,7 @@ graph
     color "Steel Blue"
     latitude 40.699337
     longitude -73.990531
+    displayname "High St"
   ]
   node
   [
@@ -1372,6 +1508,7 @@ graph
     color "Steel Blue"
     latitude 40.688484
     longitude -73.985001
+    displayname "Hoyt-Schermerhorn Sts"
   ]
   node
   [
@@ -1382,6 +1519,7 @@ graph
     color "Steel Blue"
     latitude 40.686113
     longitude -73.973946
+    displayname "Lafayette Av"
   ]
   node
   [
@@ -1392,6 +1530,7 @@ graph
     color "Steel Blue"
     latitude 40.683263
     longitude -73.965838
+    displayname "Clinton-Washington Avs"
   ]
   node
   [
@@ -1402,6 +1541,7 @@ graph
     color "Steel Blue"
     latitude 40.680438
     longitude -73.950426
+    displayname "Nostrand Av"
   ]
   node
   [
@@ -1412,6 +1552,7 @@ graph
     color "Steel Blue"
     latitude 40.679921
     longitude -73.940858
+    displayname "Kingston-Throop Avs"
   ]
   node
   [
@@ -1422,6 +1563,7 @@ graph
     color "Steel Blue"
     latitude 40.679364
     longitude -73.930729
+    displayname "Utica Av"
   ]
   node
   [
@@ -1432,6 +1574,7 @@ graph
     color "Steel Blue"
     latitude 40.678822
     longitude -73.920786
+    displayname "Ralph Av"
   ]
   node
   [
@@ -1442,6 +1585,7 @@ graph
     color "Steel Blue"
     latitude 40.67834
     longitude -73.911946
+    displayname "Rockaway Av"
   ]
   node
   [
@@ -1452,6 +1596,7 @@ graph
     color "Steel Blue"
     latitude 40.674542
     longitude -73.896548
+    displayname "Liberty Av"
   ]
   node
   [
@@ -1462,6 +1607,7 @@ graph
     color "Steel Blue"
     latitude 40.67271
     longitude -73.890358
+    displayname "Van Siclen Av"
   ]
   node
   [
@@ -1472,6 +1618,7 @@ graph
     color "Steel Blue"
     latitude 40.67413
     longitude -73.88075
+    displayname "Shepherd Av"
   ]
   node
   [
@@ -1482,6 +1629,7 @@ graph
     color "Steel Blue"
     latitude 40.675377
     longitude -73.872106
+    displayname "Euclid Av"
   ]
   node
   [
@@ -1492,6 +1640,7 @@ graph
     color "Steel Blue"
     latitude 40.677044
     longitude -73.86505
+    displayname "Grant Av"
   ]
   node
   [
@@ -1502,6 +1651,7 @@ graph
     color "Orange"
     latitude 40.679371
     longitude -73.858992
+    displayname "80 St"
   ]
   node
   [
@@ -1512,6 +1662,7 @@ graph
     color "Orange"
     latitude 40.679843
     longitude -73.85147
+    displayname "88 St"
   ]
   node
   [
@@ -1522,6 +1673,7 @@ graph
     color "Orange"
     latitude 40.680429
     longitude -73.843853
+    displayname "Rockaway Blvd"
   ]
   node
   [
@@ -1532,6 +1684,7 @@ graph
     color "Orange"
     latitude 40.681711
     longitude -73.837683
+    displayname "104 St"
   ]
   node
   [
@@ -1542,6 +1695,7 @@ graph
     color "Orange"
     latitude 40.684331
     longitude -73.832163
+    displayname "111 St"
   ]
   node
   [
@@ -1552,6 +1706,7 @@ graph
     color "Orange"
     latitude 40.685951
     longitude -73.825798
+    displayname "Ozone Park-Lefferts Blvd"
   ]
   node
   [
@@ -1562,6 +1717,7 @@ graph
     color "Orange"
     latitude 40.672097
     longitude -73.835919
+    displayname "Aqueduct Racetrack"
   ]
   node
   [
@@ -1572,6 +1728,7 @@ graph
     color "Orange"
     latitude 40.668234
     longitude -73.834058
+    displayname "Aqueduct-N Conduit Av"
   ]
   node
   [
@@ -1582,6 +1739,7 @@ graph
     color "Orange"
     latitude 40.660476
     longitude -73.830301
+    displayname "Howard Beach-JFK Airport"
   ]
   node
   [
@@ -1592,6 +1750,7 @@ graph
     color "Orange"
     latitude 40.608382
     longitude -73.815925
+    displayname "Broad Channel"
   ]
   node
   [
@@ -1602,6 +1761,7 @@ graph
     color "Orange"
     latitude 40.588034
     longitude -73.813641
+    displayname "Beach 90 St"
   ]
   node
   [
@@ -1612,6 +1772,7 @@ graph
     color "Orange"
     latitude 40.585307
     longitude -73.820558
+    displayname "Beach 98 St"
   ]
   node
   [
@@ -1622,6 +1783,7 @@ graph
     color "Orange"
     latitude 40.583209
     longitude -73.827559
+    displayname "Beach 105 St"
   ]
   node
   [
@@ -1632,6 +1794,7 @@ graph
     color "Orange"
     latitude 40.580903
     longitude -73.835592
+    displayname "Rockaway Park-Beach 116 St"
   ]
   node
   [
@@ -1642,6 +1805,7 @@ graph
     color "Orange"
     latitude 40.590927
     longitude -73.796924
+    displayname "Beach 67 St"
   ]
   node
   [
@@ -1652,6 +1816,7 @@ graph
     color "Orange"
     latitude 40.592374
     longitude -73.788522
+    displayname "Beach 60 St"
   ]
   node
   [
@@ -1662,6 +1827,7 @@ graph
     color "Orange"
     latitude 40.592943
     longitude -73.776013
+    displayname "Beach 44 St"
   ]
   node
   [
@@ -1672,6 +1838,7 @@ graph
     color "Orange"
     latitude 40.595398
     longitude -73.768175
+    displayname "Beach 36 St"
   ]
   node
   [
@@ -1682,6 +1849,7 @@ graph
     color "Orange"
     latitude 40.600066
     longitude -73.761353
+    displayname "Beach 25 St"
   ]
   node
   [
@@ -1692,6 +1860,7 @@ graph
     color "Orange"
     latitude 40.603995
     longitude -73.755405
+    displayname "Far Rockaway-Mott Av"
   ]
   node
   [
@@ -1702,6 +1871,7 @@ graph
     color "Web Green"
     latitude 40.874811
     longitude -73.878855
+    displayname "Norwood-205 St"
   ]
   node
   [
@@ -1712,6 +1882,7 @@ graph
     color "Web Green"
     latitude 40.873244
     longitude -73.887138
+    displayname "Bedford Park Blvd"
   ]
   node
   [
@@ -1722,6 +1893,7 @@ graph
     color "Web Green"
     latitude 40.866978
     longitude -73.893509
+    displayname "Kingsbridge Rd"
   ]
   node
   [
@@ -1732,6 +1904,7 @@ graph
     color "Web Green"
     latitude 40.861296
     longitude -73.897749
+    displayname "Fordham Rd"
   ]
   node
   [
@@ -1742,6 +1915,7 @@ graph
     color "Web Green"
     latitude 40.856093
     longitude -73.900741
+    displayname "182-183 Sts"
   ]
   node
   [
@@ -1752,6 +1926,7 @@ graph
     color "Web Green"
     latitude 40.85041
     longitude -73.905227
+    displayname "Tremont Av"
   ]
   node
   [
@@ -1762,6 +1937,7 @@ graph
     color "Web Green"
     latitude 40.8459
     longitude -73.910136
+    displayname "174-175 Sts"
   ]
   node
   [
@@ -1772,6 +1948,7 @@ graph
     color "Web Green"
     latitude 40.839306
     longitude -73.9134
+    displayname "170 St"
   ]
   node
   [
@@ -1782,6 +1959,7 @@ graph
     color "Web Green"
     latitude 40.833771
     longitude -73.91844
+    displayname "167 St"
   ]
   node
   [
@@ -1792,6 +1970,7 @@ graph
     color "Crimson"
     latitude 40.830135
     longitude -73.938209
+    displayname "155 St"
   ]
   node
   [
@@ -1802,6 +1981,7 @@ graph
     color "Orange"
     latitude 40.754203
     longitude -73.942836
+    displayname "21 St-Queensbridge"
   ]
   node
   [
@@ -1812,6 +1992,7 @@ graph
     color "Crimson"
     latitude 40.759145
     longitude -73.95326
+    displayname "Roosevelt Island"
   ]
   node
   [
@@ -1822,6 +2003,7 @@ graph
     color "Crimson"
     latitude 40.764629
     longitude -73.966113
+    displayname "Lexington Av/63 St"
   ]
   node
   [
@@ -1832,6 +2014,7 @@ graph
     color "Crimson"
     latitude 40.763972
     longitude -73.97745
+    displayname "57 St"
   ]
   node
   [
@@ -1842,6 +2025,7 @@ graph
     color "Crimson"
     latitude 40.758663
     longitude -73.981329
+    displayname "47-50 Sts-Rockefeller Ctr"
   ]
   node
   [
@@ -1852,6 +2036,7 @@ graph
     color "Crimson"
     latitude 40.742878
     longitude -73.992821
+    displayname "23 St"
   ]
   node
   [
@@ -1862,6 +2047,7 @@ graph
     color "Crimson"
     latitude 40.718267
     longitude -73.993753
+    displayname "Grand St"
   ]
   node
   [
@@ -1872,6 +2058,7 @@ graph
     color "Crimson"
     latitude 40.723402
     longitude -73.989938
+    displayname "2 Av"
   ]
   node
   [
@@ -1882,6 +2069,7 @@ graph
     color "Crimson"
     latitude 40.713715
     longitude -73.990173
+    displayname "East Broadway"
   ]
   node
   [
@@ -1892,6 +2080,7 @@ graph
     color "Steel Blue"
     latitude 40.701397
     longitude -73.986751
+    displayname "York St"
   ]
   node
   [
@@ -1902,6 +2091,7 @@ graph
     color "Steel Blue"
     latitude 40.686145
     longitude -73.990862
+    displayname "Bergen St"
   ]
   node
   [
@@ -1912,6 +2102,7 @@ graph
     color "Steel Blue"
     latitude 40.680303
     longitude -73.995048
+    displayname "Carroll St"
   ]
   node
   [
@@ -1922,6 +2113,7 @@ graph
     color "Steel Blue"
     latitude 40.67358
     longitude -73.995959
+    displayname "Smith-9 Sts"
   ]
   node
   [
@@ -1932,6 +2124,7 @@ graph
     color "Steel Blue"
     latitude 40.666271
     longitude -73.980305
+    displayname "7 Av"
   ]
   node
   [
@@ -1942,6 +2135,7 @@ graph
     color "Steel Blue"
     latitude 40.660365
     longitude -73.979493
+    displayname "15 St-Prospect Park"
   ]
   node
   [
@@ -1952,6 +2146,7 @@ graph
     color "Steel Blue"
     latitude 40.650782
     longitude -73.975776
+    displayname "Fort Hamilton Pkwy"
   ]
   node
   [
@@ -1962,6 +2157,7 @@ graph
     color "Steel Blue"
     latitude 40.644041
     longitude -73.979678
+    displayname "Church Av"
   ]
   node
   [
@@ -1972,6 +2168,7 @@ graph
     color "Steel Blue"
     latitude 40.636119
     longitude -73.978172
+    displayname "Ditmas Av"
   ]
   node
   [
@@ -1982,6 +2179,7 @@ graph
     color "Steel Blue"
     latitude 40.629755
     longitude -73.976971
+    displayname "18 Av"
   ]
   node
   [
@@ -1992,6 +2190,7 @@ graph
     color "Steel Blue"
     latitude 40.625322
     longitude -73.976127
+    displayname "Avenue I"
   ]
   node
   [
@@ -2002,6 +2201,7 @@ graph
     color "Steel Blue"
     latitude 40.620769
     longitude -73.975264
+    displayname "Bay Pkwy"
   ]
   node
   [
@@ -2012,6 +2212,7 @@ graph
     color "Steel Blue"
     latitude 40.61514
     longitude -73.974197
+    displayname "Avenue N"
   ]
   node
   [
@@ -2022,6 +2223,7 @@ graph
     color "Steel Blue"
     latitude 40.608944
     longitude -73.973022
+    displayname "Avenue P"
   ]
   node
   [
@@ -2032,6 +2234,7 @@ graph
     color "Steel Blue"
     latitude 40.603217
     longitude -73.972361
+    displayname "Kings Hwy"
   ]
   node
   [
@@ -2042,6 +2245,7 @@ graph
     color "Steel Blue"
     latitude 40.596063
     longitude -73.973357
+    displayname "Avenue U"
   ]
   node
   [
@@ -2052,6 +2256,7 @@ graph
     color "Steel Blue"
     latitude 40.58962
     longitude -73.97425
+    displayname "Avenue X"
   ]
   node
   [
@@ -2062,6 +2267,7 @@ graph
     color "Steel Blue"
     latitude 40.581011
     longitude -73.974574
+    displayname "Neptune Av"
   ]
   node
   [
@@ -2072,6 +2278,7 @@ graph
     color "Orange"
     latitude 40.712646
     longitude -73.783817
+    displayname "Jamaica-179 St"
   ]
   node
   [
@@ -2082,6 +2289,7 @@ graph
     color "Orange"
     latitude 40.71047
     longitude -73.793604
+    displayname "169 St"
   ]
   node
   [
@@ -2092,6 +2300,7 @@ graph
     color "Orange"
     latitude 40.707564
     longitude -73.803326
+    displayname "Parsons Blvd"
   ]
   node
   [
@@ -2102,6 +2311,7 @@ graph
     color "Orange"
     latitude 40.70546
     longitude -73.810708
+    displayname "Sutphin Blvd"
   ]
   node
   [
@@ -2112,6 +2322,7 @@ graph
     color "Orange"
     latitude 40.709179
     longitude -73.820574
+    displayname "Briarwood"
   ]
   node
   [
@@ -2122,6 +2333,7 @@ graph
     color "Orange"
     latitude 40.714441
     longitude -73.831008
+    displayname "Kew Gardens-Union Tpke"
   ]
   node
   [
@@ -2132,6 +2344,7 @@ graph
     color "Orange"
     latitude 40.718331
     longitude -73.837324
+    displayname "75 Av"
   ]
   node
   [
@@ -2142,6 +2355,7 @@ graph
     color "Orange"
     latitude 40.721691
     longitude -73.844521
+    displayname "Forest Hills-71 Av"
   ]
   node
   [
@@ -2152,6 +2366,7 @@ graph
     color "Orange"
     latitude 40.726523
     longitude -73.852719
+    displayname "67 Av"
   ]
   node
   [
@@ -2162,6 +2377,7 @@ graph
     color "Orange"
     latitude 40.729846
     longitude -73.861604
+    displayname "63 Dr-Rego Park"
   ]
   node
   [
@@ -2172,6 +2388,7 @@ graph
     color "Orange"
     latitude 40.733106
     longitude -73.869229
+    displayname "Woodhaven Blvd"
   ]
   node
   [
@@ -2182,6 +2399,7 @@ graph
     color "Orange"
     latitude 40.737015
     longitude -73.877223
+    displayname "Grand Av-Newtown"
   ]
   node
   [
@@ -2192,6 +2410,7 @@ graph
     color "Orange"
     latitude 40.742454
     longitude -73.882017
+    displayname "Elmhurst Av"
   ]
   node
   [
@@ -2202,6 +2421,7 @@ graph
     color "Orange"
     latitude 40.749669
     longitude -73.898453
+    displayname "65 St"
   ]
   node
   [
@@ -2212,6 +2432,7 @@ graph
     color "Orange"
     latitude 40.752885
     longitude -73.906006
+    displayname "Northern Blvd"
   ]
   node
   [
@@ -2222,6 +2443,7 @@ graph
     color "Orange"
     latitude 40.756312
     longitude -73.913333
+    displayname "46 St"
   ]
   node
   [
@@ -2232,6 +2454,7 @@ graph
     color "Orange"
     latitude 40.756879
     longitude -73.92074
+    displayname "Steinway St"
   ]
   node
   [
@@ -2242,6 +2465,7 @@ graph
     color "Orange"
     latitude 40.752039
     longitude -73.928781
+    displayname "36 St"
   ]
   node
   [
@@ -2252,6 +2476,7 @@ graph
     color "Orange"
     latitude 40.748973
     longitude -73.937243
+    displayname "Queens Plaza"
   ]
   node
   [
@@ -2262,6 +2487,7 @@ graph
     color "Crimson"
     latitude 40.760167
     longitude -73.975224
+    displayname "5 Av/53 St"
   ]
   node
   [
@@ -2272,6 +2498,7 @@ graph
     color "Crimson"
     latitude 40.762862
     longitude -73.981637
+    displayname "7 Av"
   ]
   node
   [
@@ -2282,6 +2509,7 @@ graph
     color "Orange"
     latitude 40.702147
     longitude -73.801109
+    displayname "Jamaica Center-Parsons/Archer"
   ]
   node
   [
@@ -2292,6 +2520,7 @@ graph
     color "Orange"
     latitude 40.700486
     longitude -73.807969
+    displayname "Sutphin Blvd-Archer Av-JFK Airport"
   ]
   node
   [
@@ -2302,6 +2531,7 @@ graph
     color "Orange"
     latitude 40.702566
     longitude -73.816859
+    displayname "Jamaica-Van Wyck"
   ]
   node
   [
@@ -2312,6 +2542,7 @@ graph
     color "Orange"
     latitude 40.744065
     longitude -73.949724
+    displayname "21 St"
   ]
   node
   [
@@ -2322,6 +2553,7 @@ graph
     color "Steel Blue"
     latitude 40.731352
     longitude -73.954449
+    displayname "Greenpoint Av"
   ]
   node
   [
@@ -2332,6 +2564,7 @@ graph
     color "Steel Blue"
     latitude 40.724635
     longitude -73.951277
+    displayname "Nassau Av"
   ]
   node
   [
@@ -2342,6 +2575,7 @@ graph
     color "Steel Blue"
     latitude 40.706092
     longitude -73.950308
+    displayname "Broadway"
   ]
   node
   [
@@ -2352,6 +2586,7 @@ graph
     color "Steel Blue"
     latitude 40.700377
     longitude -73.950234
+    displayname "Flushing Av"
   ]
   node
   [
@@ -2362,6 +2597,7 @@ graph
     color "Steel Blue"
     latitude 40.694568
     longitude -73.949046
+    displayname "Myrtle-Willoughby Avs"
   ]
   node
   [
@@ -2372,6 +2608,7 @@ graph
     color "Steel Blue"
     latitude 40.689627
     longitude -73.953522
+    displayname "Bedford-Nostrand Avs"
   ]
   node
   [
@@ -2382,6 +2619,7 @@ graph
     color "Steel Blue"
     latitude 40.688873
     longitude -73.96007
+    displayname "Classon Av"
   ]
   node
   [
@@ -2392,6 +2630,7 @@ graph
     color "Steel Blue"
     latitude 40.688089
     longitude -73.966839
+    displayname "Clinton-Washington Avs"
   ]
   node
   [
@@ -2402,6 +2641,7 @@ graph
     color "Steel Blue"
     latitude 40.687119
     longitude -73.975375
+    displayname "Fulton St"
   ]
   node
   [
@@ -2412,6 +2652,7 @@ graph
     color "Web Green"
     latitude 40.889248
     longitude -73.898583
+    displayname "Van Cortlandt Park-242 St"
   ]
   node
   [
@@ -2422,6 +2663,7 @@ graph
     color "Web Green"
     latitude 40.884667
     longitude -73.90087
+    displayname "238 St"
   ]
   node
   [
@@ -2432,6 +2674,7 @@ graph
     color "Web Green"
     latitude 40.878856
     longitude -73.904834
+    displayname "231 St"
   ]
   node
   [
@@ -2442,6 +2685,7 @@ graph
     color "Crimson"
     latitude 40.874561
     longitude -73.909831
+    displayname "Marble Hill-225 St"
   ]
   node
   [
@@ -2452,6 +2696,7 @@ graph
     color "Crimson"
     latitude 40.869444
     longitude -73.915279
+    displayname "215 St"
   ]
   node
   [
@@ -2462,6 +2707,7 @@ graph
     color "Crimson"
     latitude 40.864621
     longitude -73.918822
+    displayname "207 St"
   ]
   node
   [
@@ -2472,6 +2718,7 @@ graph
     color "Crimson"
     latitude 40.860531
     longitude -73.925536
+    displayname "Dyckman St"
   ]
   node
   [
@@ -2482,6 +2729,7 @@ graph
     color "Crimson"
     latitude 40.855225
     longitude -73.929412
+    displayname "191 St"
   ]
   node
   [
@@ -2492,6 +2740,7 @@ graph
     color "Crimson"
     latitude 40.849505
     longitude -73.933596
+    displayname "181 St"
   ]
   node
   [
@@ -2502,6 +2751,7 @@ graph
     color "Crimson"
     latitude 40.834041
     longitude -73.94489
+    displayname "157 St"
   ]
   node
   [
@@ -2512,6 +2762,7 @@ graph
     color "Crimson"
     latitude 40.826551
     longitude -73.95036
+    displayname "145 St"
   ]
   node
   [
@@ -2522,6 +2773,7 @@ graph
     color "Crimson"
     latitude 40.822008
     longitude -73.953676
+    displayname "137 St-City College"
   ]
   node
   [
@@ -2532,6 +2784,7 @@ graph
     color "Crimson"
     latitude 40.815581
     longitude -73.958372
+    displayname "125 St"
   ]
   node
   [
@@ -2542,6 +2795,7 @@ graph
     color "Crimson"
     latitude 40.807722
     longitude -73.96411
+    displayname "116 St-Columbia University"
   ]
   node
   [
@@ -2552,6 +2806,7 @@ graph
     color "Crimson"
     latitude 40.803967
     longitude -73.966847
+    displayname "Cathedral Pkwy (110 St)"
   ]
   node
   [
@@ -2562,6 +2817,7 @@ graph
     color "Crimson"
     latitude 40.799446
     longitude -73.968379
+    displayname "103 St"
   ]
   node
   [
@@ -2572,6 +2828,7 @@ graph
     color "Crimson"
     latitude 40.793919
     longitude -73.972323
+    displayname "96 St"
   ]
   node
   [
@@ -2582,6 +2839,7 @@ graph
     color "Crimson"
     latitude 40.788644
     longitude -73.976218
+    displayname "86 St"
   ]
   node
   [
@@ -2592,6 +2850,7 @@ graph
     color "Crimson"
     latitude 40.783934
     longitude -73.979917
+    displayname "79 St"
   ]
   node
   [
@@ -2602,6 +2861,7 @@ graph
     color "Crimson"
     latitude 40.778453
     longitude -73.98197
+    displayname "72 St"
   ]
   node
   [
@@ -2612,6 +2872,7 @@ graph
     color "Crimson"
     latitude 40.77344
     longitude -73.982209
+    displayname "66 St-Lincoln Center"
   ]
   node
   [
@@ -2622,6 +2883,7 @@ graph
     color "Crimson"
     latitude 40.761728
     longitude -73.983849
+    displayname "50 St"
   ]
   node
   [
@@ -2632,6 +2894,7 @@ graph
     color "Crimson"
     latitude 40.750373
     longitude -73.991057
+    displayname "34 St-Penn Station"
   ]
   node
   [
@@ -2642,6 +2905,7 @@ graph
     color "Crimson"
     latitude 40.747215
     longitude -73.993365
+    displayname "28 St"
   ]
   node
   [
@@ -2652,6 +2916,7 @@ graph
     color "Crimson"
     latitude 40.744081
     longitude -73.995657
+    displayname "23 St"
   ]
   node
   [
@@ -2662,6 +2927,7 @@ graph
     color "Crimson"
     latitude 40.74104
     longitude -73.997871
+    displayname "18 St"
   ]
   node
   [
@@ -2672,6 +2938,7 @@ graph
     color "Crimson"
     latitude 40.733422
     longitude -74.002906
+    displayname "Christopher St-Sheridan Sq"
   ]
   node
   [
@@ -2682,6 +2949,7 @@ graph
     color "Crimson"
     latitude 40.728251
     longitude -74.005367
+    displayname "Houston St"
   ]
   node
   [
@@ -2692,6 +2960,7 @@ graph
     color "Crimson"
     latitude 40.722854
     longitude -74.006277
+    displayname "Canal St"
   ]
   node
   [
@@ -2702,6 +2971,7 @@ graph
     color "Crimson"
     latitude 40.719318
     longitude -74.006886
+    displayname "Franklin St"
   ]
   node
   [
@@ -2712,6 +2982,7 @@ graph
     color "Crimson"
     latitude 40.715478
     longitude -74.009266
+    displayname "Chambers St"
   ]
   node
   [
@@ -2722,6 +2993,7 @@ graph
     color "Crimson"
     latitude 40.711835
     longitude -74.012188
+    displayname "WTC Cortlandt"
   ]
   node
   [
@@ -2732,6 +3004,7 @@ graph
     color "Crimson"
     latitude 40.707513
     longitude -74.013783
+    displayname "Rector St"
   ]
   node
   [
@@ -2742,6 +3015,7 @@ graph
     color "Crimson"
     latitude 40.706821
     longitude -74.0091
+    displayname "Wall St"
   ]
   node
   [
@@ -2752,6 +3026,7 @@ graph
     color "Steel Blue"
     latitude 40.697466
     longitude -73.993086
+    displayname "Clark St"
   ]
   node
   [
@@ -2762,6 +3037,7 @@ graph
     color "Steel Blue"
     latitude 40.690545
     longitude -73.985065
+    displayname "Hoyt St"
   ]
   node
   [
@@ -2772,6 +3048,7 @@ graph
     color "Steel Blue"
     latitude 40.688246
     longitude -73.980492
+    displayname "Nevins St"
   ]
   node
   [
@@ -2782,6 +3059,7 @@ graph
     color "Steel Blue"
     latitude 40.680829
     longitude -73.975098
+    displayname "Bergen St"
   ]
   node
   [
@@ -2792,6 +3070,7 @@ graph
     color "Steel Blue"
     latitude 40.675235
     longitude -73.971046
+    displayname "Grand Army Plaza"
   ]
   node
   [
@@ -2802,6 +3081,7 @@ graph
     color "Steel Blue"
     latitude 40.671987
     longitude -73.964375
+    displayname "Eastern Pkwy-Brooklyn Museum"
   ]
   node
   [
@@ -2812,6 +3092,7 @@ graph
     color "Steel Blue"
     latitude 40.669847
     longitude -73.950466
+    displayname "Nostrand Av"
   ]
   node
   [
@@ -2822,6 +3103,7 @@ graph
     color "Steel Blue"
     latitude 40.669399
     longitude -73.942161
+    displayname "Kingston Av"
   ]
   node
   [
@@ -2832,6 +3114,7 @@ graph
     color "Steel Blue"
     latitude 40.668897
     longitude -73.932942
+    displayname "Crown Hts-Utica Av"
   ]
   node
   [
@@ -2842,6 +3125,7 @@ graph
     color "Steel Blue"
     latitude 40.664717
     longitude -73.92261
+    displayname "Sutter Av-Rutland Rd"
   ]
   node
   [
@@ -2852,6 +3136,7 @@ graph
     color "Steel Blue"
     latitude 40.661453
     longitude -73.916327
+    displayname "Saratoga Av"
   ]
   node
   [
@@ -2862,6 +3147,7 @@ graph
     color "Steel Blue"
     latitude 40.662549
     longitude -73.908946
+    displayname "Rockaway Av"
   ]
   node
   [
@@ -2872,6 +3158,7 @@ graph
     color "Steel Blue"
     latitude 40.663515
     longitude -73.902447
+    displayname "Junius St"
   ]
   node
   [
@@ -2882,6 +3169,7 @@ graph
     color "Steel Blue"
     latitude 40.664635
     longitude -73.894895
+    displayname "Pennsylvania Av"
   ]
   node
   [
@@ -2892,6 +3180,7 @@ graph
     color "Steel Blue"
     latitude 40.665449
     longitude -73.889395
+    displayname "Van Siclen Av"
   ]
   node
   [
@@ -2902,6 +3191,7 @@ graph
     color "Steel Blue"
     latitude 40.666235
     longitude -73.884079
+    displayname "New Lots Av"
   ]
   node
   [
@@ -2912,6 +3202,7 @@ graph
     color "Steel Blue"
     latitude 40.667883
     longitude -73.950683
+    displayname "President Street-Medgar Evers College"
   ]
   node
   [
@@ -2922,6 +3213,7 @@ graph
     color "Steel Blue"
     latitude 40.662742
     longitude -73.95085
+    displayname "Sterling St"
   ]
   node
   [
@@ -2932,6 +3224,7 @@ graph
     color "Steel Blue"
     latitude 40.656652
     longitude -73.9502
+    displayname "Winthrop St"
   ]
   node
   [
@@ -2942,6 +3235,7 @@ graph
     color "Steel Blue"
     latitude 40.650843
     longitude -73.949575
+    displayname "Church Av"
   ]
   node
   [
@@ -2952,6 +3246,7 @@ graph
     color "Steel Blue"
     latitude 40.645098
     longitude -73.948959
+    displayname "Beverly Rd"
   ]
   node
   [
@@ -2962,6 +3257,7 @@ graph
     color "Steel Blue"
     latitude 40.639967
     longitude -73.948411
+    displayname "Newkirk Av - Little Haiti"
   ]
   node
   [
@@ -2972,6 +3268,7 @@ graph
     color "Steel Blue"
     latitude 40.632836
     longitude -73.947642
+    displayname "Flatbush Av-Brooklyn College"
   ]
   node
   [
@@ -2982,6 +3279,7 @@ graph
     color "Web Green"
     latitude 40.852462
     longitude -73.828121
+    displayname "Pelham Bay Park"
   ]
   node
   [
@@ -2992,6 +3290,7 @@ graph
     color "Web Green"
     latitude 40.84681
     longitude -73.832569
+    displayname "Buhre Av"
   ]
   node
   [
@@ -3002,6 +3301,7 @@ graph
     color "Web Green"
     latitude 40.843863
     longitude -73.836322
+    displayname "Middletown Rd"
   ]
   node
   [
@@ -3012,6 +3312,7 @@ graph
     color "Web Green"
     latitude 40.839892
     longitude -73.842952
+    displayname "Westchester Sq-E Tremont Av"
   ]
   node
   [
@@ -3022,6 +3323,7 @@ graph
     color "Web Green"
     latitude 40.836488
     longitude -73.847036
+    displayname "Zerega Av"
   ]
   node
   [
@@ -3032,6 +3334,7 @@ graph
     color "Web Green"
     latitude 40.834255
     longitude -73.851222
+    displayname "Castle Hill Av"
   ]
   node
   [
@@ -3042,6 +3345,7 @@ graph
     color "Web Green"
     latitude 40.833226
     longitude -73.860816
+    displayname "Parkchester"
   ]
   node
   [
@@ -3052,6 +3356,7 @@ graph
     color "Web Green"
     latitude 40.831509
     longitude -73.867618
+    displayname "St Lawrence Av"
   ]
   node
   [
@@ -3062,6 +3367,7 @@ graph
     color "Web Green"
     latitude 40.829521
     longitude -73.874516
+    displayname "Morrison Av-Soundview"
   ]
   node
   [
@@ -3072,6 +3378,7 @@ graph
     color "Web Green"
     latitude 40.828584
     longitude -73.879159
+    displayname "Elder Av"
   ]
   node
   [
@@ -3082,6 +3389,7 @@ graph
     color "Web Green"
     latitude 40.826525
     longitude -73.886283
+    displayname "Whitlock Av"
   ]
   node
   [
@@ -3092,6 +3400,7 @@ graph
     color "Web Green"
     latitude 40.820948
     longitude -73.890549
+    displayname "Hunts Point Av"
   ]
   node
   [
@@ -3102,6 +3411,7 @@ graph
     color "Web Green"
     latitude 40.816104
     longitude -73.896435
+    displayname "Longwood Av"
   ]
   node
   [
@@ -3112,6 +3422,7 @@ graph
     color "Web Green"
     latitude 40.812118
     longitude -73.904098
+    displayname "E 149 St"
   ]
   node
   [
@@ -3122,6 +3433,7 @@ graph
     color "Web Green"
     latitude 40.808719
     longitude -73.907657
+    displayname "E 143 St-St Mary's St"
   ]
   node
   [
@@ -3132,6 +3444,7 @@ graph
     color "Web Green"
     latitude 40.805368
     longitude -73.914042
+    displayname "Cypress Av"
   ]
   node
   [
@@ -3142,6 +3455,7 @@ graph
     color "Web Green"
     latitude 40.807566
     longitude -73.91924
+    displayname "Brook Av"
   ]
   node
   [
@@ -3152,6 +3466,7 @@ graph
     color "Web Green"
     latitude 40.810476
     longitude -73.926138
+    displayname "3 Av-138 St"
   ]
   node
   [
@@ -3162,6 +3477,7 @@ graph
     color "Web Green"
     latitude 40.886037
     longitude -73.878751
+    displayname "Woodlawn"
   ]
   node
   [
@@ -3172,6 +3488,7 @@ graph
     color "Web Green"
     latitude 40.87975
     longitude -73.884655
+    displayname "Mosholu Pkwy"
   ]
   node
   [
@@ -3182,6 +3499,7 @@ graph
     color "Web Green"
     latitude 40.873412
     longitude -73.890064
+    displayname "Bedford Park Blvd-Lehman College"
   ]
   node
   [
@@ -3192,6 +3510,7 @@ graph
     color "Web Green"
     latitude 40.86776
     longitude -73.897174
+    displayname "Kingsbridge Rd"
   ]
   node
   [
@@ -3202,6 +3521,7 @@ graph
     color "Web Green"
     latitude 40.862803
     longitude -73.901034
+    displayname "Fordham Rd"
   ]
   node
   [
@@ -3212,6 +3532,7 @@ graph
     color "Web Green"
     latitude 40.858407
     longitude -73.903879
+    displayname "183 St"
   ]
   node
   [
@@ -3222,6 +3543,7 @@ graph
     color "Web Green"
     latitude 40.853453
     longitude -73.907684
+    displayname "Burnside Av"
   ]
   node
   [
@@ -3232,6 +3554,7 @@ graph
     color "Web Green"
     latitude 40.84848
     longitude -73.911794
+    displayname "176 St"
   ]
   node
   [
@@ -3242,6 +3565,7 @@ graph
     color "Web Green"
     latitude 40.844434
     longitude -73.914685
+    displayname "Mt Eden Av"
   ]
   node
   [
@@ -3252,6 +3576,7 @@ graph
     color "Web Green"
     latitude 40.840075
     longitude -73.917791
+    displayname "170 St"
   ]
   node
   [
@@ -3262,6 +3587,7 @@ graph
     color "Web Green"
     latitude 40.835537
     longitude -73.9214
+    displayname "167 St"
   ]
   node
   [
@@ -3272,6 +3598,7 @@ graph
     color "Web Green"
     latitude 40.813224
     longitude -73.929849
+    displayname "138 St-Grand Concourse"
   ]
   node
   [
@@ -3282,6 +3609,7 @@ graph
     color "Crimson"
     latitude 40.804138
     longitude -73.937594
+    displayname "125 St"
   ]
   node
   [
@@ -3292,6 +3620,7 @@ graph
     color "Crimson"
     latitude 40.798629
     longitude -73.941617
+    displayname "116 St"
   ]
   node
   [
@@ -3302,6 +3631,7 @@ graph
     color "Crimson"
     latitude 40.79502
     longitude -73.94425
+    displayname "110 St"
   ]
   node
   [
@@ -3312,6 +3642,7 @@ graph
     color "Crimson"
     latitude 40.7906
     longitude -73.947478
+    displayname "103 St"
   ]
   node
   [
@@ -3322,6 +3653,7 @@ graph
     color "Crimson"
     latitude 40.785672
     longitude -73.95107
+    displayname "96 St"
   ]
   node
   [
@@ -3332,6 +3664,7 @@ graph
     color "Crimson"
     latitude 40.779492
     longitude -73.955589
+    displayname "86 St"
   ]
   node
   [
@@ -3342,6 +3675,7 @@ graph
     color "Crimson"
     latitude 40.77362
     longitude -73.959874
+    displayname "77 St"
   ]
   node
   [
@@ -3352,6 +3686,7 @@ graph
     color "Crimson"
     latitude 40.768141
     longitude -73.96387
+    displayname "68 St-Hunter College"
   ]
   node
   [
@@ -3362,6 +3697,7 @@ graph
     color "Crimson"
     latitude 40.746081
     longitude -73.982076
+    displayname "33 St"
   ]
   node
   [
@@ -3372,6 +3708,7 @@ graph
     color "Crimson"
     latitude 40.74307
     longitude -73.984264
+    displayname "28 St"
   ]
   node
   [
@@ -3382,6 +3719,7 @@ graph
     color "Crimson"
     latitude 40.739864
     longitude -73.986599
+    displayname "23 St"
   ]
   node
   [
@@ -3392,6 +3730,7 @@ graph
     color "Crimson"
     latitude 40.730054
     longitude -73.99107
+    displayname "Astor Pl"
   ]
   node
   [
@@ -3402,6 +3741,7 @@ graph
     color "Crimson"
     latitude 40.722301
     longitude -73.997141
+    displayname "Spring St"
   ]
   node
   [
@@ -3412,6 +3752,7 @@ graph
     color "Crimson"
     latitude 40.707557
     longitude -74.011862
+    displayname "Wall St"
   ]
   node
   [
@@ -3422,6 +3763,7 @@ graph
     color "Crimson"
     latitude 40.704817
     longitude -74.014065
+    displayname "Bowling Green"
   ]
   node
   [
@@ -3432,6 +3774,7 @@ graph
     color "Web Green"
     latitude 40.903125
     longitude -73.85062
+    displayname "Wakefield-241 St"
   ]
   node
   [
@@ -3442,6 +3785,7 @@ graph
     color "Web Green"
     latitude 40.898379
     longitude -73.854376
+    displayname "Nereid Av"
   ]
   node
   [
@@ -3452,6 +3796,7 @@ graph
     color "Web Green"
     latitude 40.893193
     longitude -73.857473
+    displayname "233 St"
   ]
   node
   [
@@ -3462,6 +3807,7 @@ graph
     color "Web Green"
     latitude 40.888022
     longitude -73.860341
+    displayname "225 St"
   ]
   node
   [
@@ -3472,6 +3818,7 @@ graph
     color "Web Green"
     latitude 40.883895
     longitude -73.862633
+    displayname "219 St"
   ]
   node
   [
@@ -3482,6 +3829,7 @@ graph
     color "Web Green"
     latitude 40.87785
     longitude -73.866256
+    displayname "Gun Hill Rd"
   ]
   node
   [
@@ -3492,6 +3840,7 @@ graph
     color "Web Green"
     latitude 40.871356
     longitude -73.867164
+    displayname "Burke Av"
   ]
   node
   [
@@ -3502,6 +3851,7 @@ graph
     color "Web Green"
     latitude 40.865462
     longitude -73.867352
+    displayname "Allerton Av"
   ]
   node
   [
@@ -3512,6 +3862,7 @@ graph
     color "Web Green"
     latitude 40.857192
     longitude -73.867615
+    displayname "Pelham Pkwy"
   ]
   node
   [
@@ -3522,6 +3873,7 @@ graph
     color "Web Green"
     latitude 40.848828
     longitude -73.868457
+    displayname "Bronx Park East"
   ]
   node
   [
@@ -3532,6 +3884,7 @@ graph
     color "Web Green"
     latitude 40.841894
     longitude -73.873488
+    displayname "E 180 St"
   ]
   node
   [
@@ -3542,6 +3895,7 @@ graph
     color "Web Green"
     latitude 40.840295
     longitude -73.880049
+    displayname "West Farms Sq-E Tremont Av"
   ]
   node
   [
@@ -3552,6 +3906,7 @@ graph
     color "Web Green"
     latitude 40.837288
     longitude -73.887734
+    displayname "174 St"
   ]
   node
   [
@@ -3562,6 +3917,7 @@ graph
     color "Web Green"
     latitude 40.829993
     longitude -73.891865
+    displayname "Freeman St"
   ]
   node
   [
@@ -3572,6 +3928,7 @@ graph
     color "Web Green"
     latitude 40.824073
     longitude -73.893064
+    displayname "Simpson St"
   ]
   node
   [
@@ -3582,6 +3939,7 @@ graph
     color "Web Green"
     latitude 40.822181
     longitude -73.896736
+    displayname "Intervale Av"
   ]
   node
   [
@@ -3592,6 +3950,7 @@ graph
     color "Web Green"
     latitude 40.819585
     longitude -73.90177
+    displayname "Prospect Av"
   ]
   node
   [
@@ -3602,6 +3961,7 @@ graph
     color "Web Green"
     latitude 40.81649
     longitude -73.907807
+    displayname "Jackson Av"
   ]
   node
   [
@@ -3612,6 +3972,7 @@ graph
     color "Web Green"
     latitude 40.816109
     longitude -73.917757
+    displayname "3 Av-149 St"
   ]
   node
   [
@@ -3622,6 +3983,7 @@ graph
     color "Crimson"
     latitude 40.82388
     longitude -73.93647
+    displayname "Harlem-148 St"
   ]
   node
   [
@@ -3632,6 +3994,7 @@ graph
     color "Crimson"
     latitude 40.820421
     longitude -73.936245
+    displayname "145 St"
   ]
   node
   [
@@ -3642,6 +4005,7 @@ graph
     color "Crimson"
     latitude 40.814229
     longitude -73.94077
+    displayname "135 St"
   ]
   node
   [
@@ -3652,6 +4016,7 @@ graph
     color "Crimson"
     latitude 40.807754
     longitude -73.945495
+    displayname "125 St"
   ]
   node
   [
@@ -3662,6 +4027,7 @@ graph
     color "Crimson"
     latitude 40.802098
     longitude -73.949625
+    displayname "116 St"
   ]
   node
   [
@@ -3672,6 +4038,7 @@ graph
     color "Crimson"
     latitude 40.799075
     longitude -73.951822
+    displayname "Central Park North (110 St)"
   ]
   node
   [
@@ -3682,6 +4049,7 @@ graph
     color "Web Green"
     latitude 40.8883
     longitude -73.830834
+    displayname "Eastchester-Dyre Av"
   ]
   node
   [
@@ -3692,6 +4060,7 @@ graph
     color "Web Green"
     latitude 40.878663
     longitude -73.838591
+    displayname "Baychester Av"
   ]
   node
   [
@@ -3702,6 +4071,7 @@ graph
     color "Web Green"
     latitude 40.869526
     longitude -73.846384
+    displayname "Gun Hill Rd"
   ]
   node
   [
@@ -3712,6 +4082,7 @@ graph
     color "Web Green"
     latitude 40.858985
     longitude -73.855359
+    displayname "Pelham Pkwy"
   ]
   node
   [
@@ -3722,6 +4093,7 @@ graph
     color "Web Green"
     latitude 40.854364
     longitude -73.860495
+    displayname "Morris Park"
   ]
   node
   [
@@ -3732,6 +4104,7 @@ graph
     color "Orange"
     latitude 40.7596
     longitude -73.83003
+    displayname "Flushing-Main St"
   ]
   node
   [
@@ -3742,6 +4115,7 @@ graph
     color "Orange"
     latitude 40.754622
     longitude -73.845625
+    displayname "Mets-Willets Point"
   ]
   node
   [
@@ -3752,6 +4126,7 @@ graph
     color "Orange"
     latitude 40.75173
     longitude -73.855334
+    displayname "111 St"
   ]
   node
   [
@@ -3762,6 +4137,7 @@ graph
     color "Orange"
     latitude 40.749865
     longitude -73.8627
+    displayname "103 St-Corona Plaza"
   ]
   node
   [
@@ -3772,6 +4148,7 @@ graph
     color "Orange"
     latitude 40.749145
     longitude -73.869527
+    displayname "Junction Blvd"
   ]
   node
   [
@@ -3782,6 +4159,7 @@ graph
     color "Orange"
     latitude 40.748408
     longitude -73.876613
+    displayname "90 St-Elmhurst Av"
   ]
   node
   [
@@ -3792,6 +4170,7 @@ graph
     color "Orange"
     latitude 40.747659
     longitude -73.883697
+    displayname "82 St-Jackson Hts"
   ]
   node
   [
@@ -3802,6 +4181,7 @@ graph
     color "Orange"
     latitude 40.746325
     longitude -73.896403
+    displayname "69 St"
   ]
   node
   [
@@ -3812,6 +4192,7 @@ graph
     color "Orange"
     latitude 40.74563
     longitude -73.902984
+    displayname "Woodside-61 St"
   ]
   node
   [
@@ -3822,6 +4203,7 @@ graph
     color "Orange"
     latitude 40.744149
     longitude -73.912549
+    displayname "52 St"
   ]
   node
   [
@@ -3832,6 +4214,7 @@ graph
     color "Orange"
     latitude 40.743132
     longitude -73.918435
+    displayname "46 St-Bliss St"
   ]
   node
   [
@@ -3842,6 +4225,7 @@ graph
     color "Orange"
     latitude 40.743781
     longitude -73.924016
+    displayname "40 St-Lowery St"
   ]
   node
   [
@@ -3852,6 +4236,7 @@ graph
     color "Orange"
     latitude 40.744587
     longitude -73.930997
+    displayname "33 St-Rawson St"
   ]
   node
   [
@@ -3862,6 +4247,7 @@ graph
     color "Orange"
     latitude 40.750582
     longitude -73.940202
+    displayname "Queensboro Plaza"
   ]
   node
   [
@@ -3872,6 +4258,7 @@ graph
     color "Orange"
     latitude 40.742216
     longitude -73.948916
+    displayname "Hunters Point Av"
   ]
   node
   [
@@ -3882,6 +4269,7 @@ graph
     color "Orange"
     latitude 40.742626
     longitude -73.953581
+    displayname "Vernon Blvd-Jackson Av"
   ]
   node
   [
@@ -3892,6 +4280,7 @@ graph
     color "Crimson"
     latitude 40.755882
     longitude -74.00191
+    displayname "34 St-Hudson Yards"
   ]
   node
   [
@@ -3902,6 +4291,7 @@ graph
     color "Crimson"
     latitude 40.784318
     longitude -73.947152
+    displayname "96 St"
   ]
   node
   [
@@ -3912,6 +4302,7 @@ graph
     color "Crimson"
     latitude 40.777891
     longitude -73.951787
+    displayname "86 St"
   ]
   node
   [
@@ -3922,6 +4313,7 @@ graph
     color "Crimson"
     latitude 40.768799
     longitude -73.958424
+    displayname "72 St"
   ]
   node
   [
@@ -3932,6 +4324,7 @@ graph
     color "Light Cyan"
     latitude 40.643748
     longitude -74.073643
+    displayname "St George"
   ]
   node
   [
@@ -3942,6 +4335,7 @@ graph
     color "Light Cyan"
     latitude 40.636949
     longitude -74.074835
+    displayname "Tompkinsville"
   ]
   node
   [
@@ -3952,6 +4346,7 @@ graph
     color "Light Cyan"
     latitude 40.627915
     longitude -74.075162
+    displayname "Stapleton"
   ]
   node
   [
@@ -3962,6 +4357,7 @@ graph
     color "Light Cyan"
     latitude 40.621319
     longitude -74.071402
+    displayname "Clifton"
   ]
   node
   [
@@ -3972,6 +4368,7 @@ graph
     color "Light Cyan"
     latitude 40.603117
     longitude -74.084087
+    displayname "Grasmere"
   ]
   node
   [
@@ -3982,6 +4379,7 @@ graph
     color "Light Cyan"
     latitude 40.596612
     longitude -74.087368
+    displayname "Old Town"
   ]
   node
   [
@@ -3992,6 +4390,7 @@ graph
     color "Light Cyan"
     latitude 40.588849
     longitude -74.09609
+    displayname "Dongan Hills"
   ]
   node
   [
@@ -4002,6 +4401,7 @@ graph
     color "Light Cyan"
     latitude 40.583591
     longitude -74.103338
+    displayname "Jefferson Av"
   ]
   node
   [
@@ -4012,6 +4412,7 @@ graph
     color "Light Cyan"
     latitude 40.578965
     longitude -74.109704
+    displayname "Grant City"
   ]
   node
   [
@@ -4022,6 +4423,7 @@ graph
     color "Light Cyan"
     latitude 40.57348
     longitude -74.11721
+    displayname "New Dorp"
   ]
   node
   [
@@ -4032,6 +4434,7 @@ graph
     color "Light Cyan"
     latitude 40.56511
     longitude -74.12632
+    displayname "Oakwood Heights"
   ]
   node
   [
@@ -4042,6 +4445,7 @@ graph
     color "Light Cyan"
     latitude 40.5564
     longitude -74.136907
+    displayname "Bay Terrace"
   ]
   node
   [
@@ -4052,6 +4456,7 @@ graph
     color "Light Cyan"
     latitude 40.551231
     longitude -74.151399
+    displayname "Great Kills"
   ]
   node
   [
@@ -4062,6 +4467,7 @@ graph
     color "Light Cyan"
     latitude 40.544601
     longitude -74.16457
+    displayname "Eltingville"
   ]
   node
   [
@@ -4072,6 +4478,7 @@ graph
     color "Light Cyan"
     latitude 40.54046
     longitude -74.178217
+    displayname "Annadale"
   ]
   node
   [
@@ -4082,6 +4489,7 @@ graph
     color "Light Cyan"
     latitude 40.533674
     longitude -74.191794
+    displayname "Huguenot"
   ]
   node
   [
@@ -4092,6 +4500,7 @@ graph
     color "Light Cyan"
     latitude 40.525507
     longitude -74.200064
+    displayname "Prince's Bay"
   ]
   node
   [
@@ -4102,6 +4511,7 @@ graph
     color "Light Cyan"
     latitude 40.52241
     longitude -74.217847
+    displayname "Pleasant Plains"
   ]
   node
   [
@@ -4112,6 +4522,7 @@ graph
     color "Light Cyan"
     latitude 40.519631
     longitude -74.229141
+    displayname "Richmond Valley"
   ]
   node
   [
@@ -4122,6 +4533,7 @@ graph
     color "Light Cyan"
     latitude 40.512764
     longitude -74.251961
+    displayname "Tottenville"
   ]
   node
   [
@@ -4132,6 +4544,7 @@ graph
     color "Light Cyan"
     latitude 40.516578
     longitude -74.242096
+    displayname "Arthur Kill"
   ]
   node
   [
@@ -4142,6 +4555,7 @@ graph
     color "Crimson"
     latitude 40.7377963333333
     longitude -73.997732
+    displayname "14 St / 6 Av"
   ]
   node
   [
@@ -4152,6 +4566,7 @@ graph
     color "Crimson"
     latitude 40.735066
     longitude -73.9904163333333
+    displayname "14 St - Union Sq"
   ]
   node
   [
@@ -4162,6 +4577,7 @@ graph
     color "Web Green"
     latitude 40.8183925
     longitude -73.9270345
+    displayname "149 St - Grand Concourse"
   ]
   node
   [
@@ -4172,6 +4588,7 @@ graph
     color "Web Green"
     latitude 40.8279495
     longitude -73.925741
+    displayname "161 St - Yankee Stadium"
   ]
   node
   [
@@ -4182,6 +4599,7 @@ graph
     color "Crimson"
     latitude 40.8406375
     longitude -73.939847
+    displayname "168 St - Washington Hts"
   ]
   node
   [
@@ -4192,6 +4610,7 @@ graph
     color "Orange"
     latitude 40.747141
     longitude -73.945032
+    displayname "Court Sq - 23 St"
   ]
   node
   [
@@ -4202,6 +4621,7 @@ graph
     color "Crimson"
     latitude 40.749643
     longitude -73.9878865
+    displayname "34 St - Herald Sq"
   ]
   node
   [
@@ -4212,6 +4632,7 @@ graph
     color "Steel Blue"
     latitude 40.6705595
     longitude -73.9890405
+    displayname "4 Av - 9 St"
   ]
   node
   [
@@ -4222,6 +4643,7 @@ graph
     color "Crimson"
     latitude 40.7540215
     longitude -73.983266
+    displayname "42 St - Bryant Pk / 5 Av"
   ]
   node
   [
@@ -4232,6 +4654,7 @@ graph
     color "Crimson"
     latitude 40.751992
     longitude -73.9773593333333
+    displayname "Grand Central - 42 St"
   ]
   node
   [
@@ -4242,6 +4665,7 @@ graph
     color "Crimson"
     latitude 40.755746
     longitude -73.9875808
+    displayname "Times Sq - 42 St / Port Authority Bus Terminal"
   ]
   node
   [
@@ -4252,6 +4676,7 @@ graph
     color "Crimson"
     latitude 40.7573295
     longitude -73.9704875
+    displayname "51 St - Lexington Av / 53 St"
   ]
   node
   [
@@ -4262,6 +4687,7 @@ graph
     color "Crimson"
     latitude 40.762593
     longitude -73.9676125
+    displayname "Lexington Av / 59 St"
   ]
   node
   [
@@ -4272,6 +4698,7 @@ graph
     color "Crimson"
     latitude 40.7682715
     longitude -73.9818325
+    displayname "59 St - Columbus Circle"
   ]
   node
   [
@@ -4282,6 +4709,7 @@ graph
     color "Steel Blue"
     latitude 40.625657
     longitude -73.996624
+    displayname "62 St / New Utrecht Av"
   ]
   node
   [
@@ -4292,6 +4720,7 @@ graph
     color "Orange"
     latitude 40.746746
     longitude -73.891366
+    displayname "Jackson Hts-Roosevelt Av / 74 St"
   ]
   node
   [
@@ -4302,6 +4731,7 @@ graph
     color "Steel Blue"
     latitude 40.6841616666667
     longitude -73.9777886666667
+    displayname "Atlantic Av-Barclays Ctr"
   ]
   node
   [
@@ -4312,6 +4742,7 @@ graph
     color "Crimson"
     latitude 40.740335
     longitude -74.002134
+    displayname "14 St / 8 Av"
   ]
   node
   [
@@ -4322,6 +4753,7 @@ graph
     color "Crimson"
     latitude 40.725606
     longitude -73.9954315
+    displayname "Broadway-Lafayette St / Bleecker St"
   ]
   node
   [
@@ -4332,6 +4764,7 @@ graph
     color "Steel Blue"
     latitude 40.693241
     longitude -73.990642
+    displayname "Borough Hall / Court St"
   ]
   node
   [
@@ -4342,6 +4775,7 @@ graph
     color "Steel Blue"
     latitude 40.678896
     longitude -73.904356
+    displayname "Broadway Junction"
   ]
   node
   [
@@ -4352,6 +4786,7 @@ graph
     color "Crimson"
     latitude 40.713154
     longitude -74.003766
+    displayname "Brooklyn Bridge-City Hall / Chambers St"
   ]
   node
   [
@@ -4362,6 +4797,7 @@ graph
     color "Crimson"
     latitude 40.71870125
     longitude -74.00058
+    displayname "Canal St"
   ]
   node
   [
@@ -4372,6 +4808,7 @@ graph
     color "Crimson"
     latitude 40.712603
     longitude -74.0095515
+    displayname "Chambers St / WTC / Park Place / Cortlandt St"
   ]
   node
   [
@@ -4382,6 +4819,7 @@ graph
     color "Crimson"
     latitude 40.718463
     longitude -73.9877755
+    displayname "Delancey St / Essex St"
   ]
   node
   [
@@ -4392,6 +4830,7 @@ graph
     color "Steel Blue"
     latitude 40.6705125
     longitude -73.958688
+    displayname "Franklin Av-Medgar Evers College / Botanic Garden"
   ]
   node
   [
@@ -4402,6 +4841,7 @@ graph
     color "Steel Blue"
     latitude 40.680988
     longitude -73.9563375
+    displayname "Franklin Av"
   ]
   node
   [
@@ -4412,6 +4852,7 @@ graph
     color "Crimson"
     latitude 40.71008875
     longitude -74.00783825
+    displayname "Fulton St"
   ]
   node
   [
@@ -4422,6 +4863,7 @@ graph
     color "Steel Blue"
     latitude 40.7134275
     longitude -73.9508465
+    displayname "Metropolitan Av / Lorimer St"
   ]
   node
   [
@@ -4432,6 +4874,7 @@ graph
     color "Steel Blue"
     latitude 40.699622
     longitude -73.9119855
+    displayname "Myrtle - Wyckoff Avs"
   ]
   node
   [
@@ -4442,6 +4885,7 @@ graph
     color "Crimson"
     latitude 40.7025775
     longitude -74.013329
+    displayname "South Ferry / Whitehall"
   ]
   node
   [
@@ -4452,6 +4896,7 @@ graph
     color "Steel Blue"
     latitude 40.692259
     longitude -73.986642
+    displayname "Jay St - MetroTech"
   ]
   edge
   [
