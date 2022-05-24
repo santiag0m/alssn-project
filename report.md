@@ -30,18 +30,33 @@ Several properties are also included in the graph. First, the graph is weighted 
 
 ![image](https://user-images.githubusercontent.com/101331875/170033278-af98b507-6543-4985-b28e-97211176e481.png)
 
-Note that there are also edges between nodes that are further away. These edges represent direct lines that skip a couple of stations (Staten Island for example clearly has this for two stations, going in a direct line to the last stop at the ferry). This has implications for the robustness analysis later on. It seems fair to assume that, if there is a node failure or a coordinated attack, not only can people no longer use the station, trains can also no longer pass through that station. So, a separate graph is made where these edges are removed.
+Note that there are also edges between nodes that are further away. These edges represent direct lines that skip a couple of stations (Staten Island for example clearly has this for two stations, going in a direct line to the last stop at the ferry). This has implications for the robustness analysis later on. It seems fair to assume that, if there is a node failure or a coordinated attack, not only can people no longer use the station, trains can also no longer pass through that station (or at least, this is the implicit assumption of this paper). So, a separate graph is made where these edges are removed to test for the robustness of the network.
 
 # Methodology
 
+The remainder of the paper will analyse the main characteristics of the network and the robustness of the network. 
+
 ## Graph characteristics
 
+ Degree and Betweenness centrality of the network are analysed, as well as some metrics taken from R. Guimerà et al.<sup>9</sup> (2004) from their paper on the global air transformation network. The methods used focus on characteristics of the nodes within the communities they belong to. These communities are modularity based clusterings and the metrics are the within community degree (z-score): 
+
+z<sub>i</sub> = (k<sub>i</sub>-avg(k<sub>s<sub>i</sub></sub>)) / σ<sub>s<sub>i</sub></sub>
+
+with k the degree, i the node and s<sub>i</sub> the community to which i belongs. And a form of inter-community degree (participation coefficient):
+
+P<sub>i</sub> = 1 - ∑ <sub>s</sub> (k<sub>s,i</sub> / k<sub>i</sub>)
+
+with k<sub>s,i</sub> the degree of node i with regards to nodes in a different community s, and k<sub>i</sub> the total degree of i. Note that, contrary to R. Guimerà et al. we use the weighted degree for all our calculations. This gives a more fair representation of the actual importance of the nodes. Although, in this (relatively) small, closed network one can expect that the weighted degree is highly correlated to the degree, since degree is typically high for transfer complexes, and these complexes are made to handle a lot of trains. 
+
 ## Robustness
+
 
 
 # Results
 
 ## Graph characteristics
+
+
 
 ## Robustness
 
@@ -69,6 +84,8 @@ Note that there are also edges between nodes that are further away. These edges 
 <sup>8</sup>Forero-Ortiz E, Martínez-Gomariz E, Cañas Porcuna M, Locatelli L, Russo B (2020). Flood Risk Assessment in an Underground Railway System under the Impact of Climate Change—A Case Study of the Barcelona Metro. Sustainability; 12(13):5291. 
 
 <sup>8</sup>http://web.mta.info/developers/developer-data-terms.html#data
+
+<sup>9</sup>R. Guimerà et al. (2005) The worldwide air transportation network: Anomalous centrality, community structure, and cities’ global roles. PNAS; 102(22): 7794-7799.
 
 # Appendix
 
