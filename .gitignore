@@ -1,1 +1,7 @@
 secrets.txt
+
+# Notebook outputs
+notebooks/*.png
+notebooks/*.txt
+notebooks/*.csv
+notebooks/*.gml
