@@ -1,4 +1,4 @@
-Creator "igraph version 0.9.6-57-g20016f189 Tue May 24 16:45:12 2022"
+Creator "igraph version 0.9.6-57-g20016f189 Tue May 24 18:55:56 2022"
 Version 1
 graph
 [
@@ -15,6 +15,8 @@ graph
     displayname "Astoria-Ditmars Blvd"
     participation 0
     zscore -0.148332771692104
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -28,6 +30,8 @@ graph
     displayname "Astoria Blvd"
     participation 0
     zscore -0.148332771692104
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -41,6 +45,8 @@ graph
     displayname "30 Av"
     participation 0
     zscore -0.148332771692104
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -54,6 +60,8 @@ graph
     displayname "Broadway"
     participation 0
     zscore -0.148332771692104
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -67,6 +75,8 @@ graph
     displayname "36 Av"
     participation 0
     zscore -0.148332771692104
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -80,6 +90,8 @@ graph
     displayname "39 Av-Dutch Kills"
     participation 0
     zscore -0.148332771692104
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -93,6 +105,8 @@ graph
     displayname "5 Av/59 St"
     participation 0
     zscore 1.02976852619078
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -106,6 +120,8 @@ graph
     displayname "57 St-7 Av"
     participation 0
     zscore 1.07783171745233
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -119,6 +135,8 @@ graph
     displayname "49 St"
     participation 0
     zscore -0.114956016904541
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -132,6 +150,8 @@ graph
     displayname "28 St"
     participation 0
     zscore 0.580201846951601
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -145,6 +165,8 @@ graph
     displayname "23 St"
     participation 0
     zscore -0.427073691865246
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -158,6 +180,8 @@ graph
     displayname "8 St-NYU"
     participation 0
     zscore 0.580201846951601
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -171,6 +195,8 @@ graph
     displayname "Prince St"
     participation 0
     zscore -0.427073691865246
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -184,6 +210,8 @@ graph
     displayname "City Hall"
     participation 0
     zscore 0.205074500519956
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -197,6 +225,8 @@ graph
     displayname "Rector St"
     participation 0
     zscore 0.205074500519956
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -210,6 +240,8 @@ graph
     displayname "DeKalb Av"
     participation 0.432066982381352
     zscore 2.65180796177621
+    role "connector_hub"
+    rolecolor "brown"
   ]
   node
   [
@@ -223,6 +255,8 @@ graph
     displayname "Union St"
     participation 0
     zscore 1.2967991936617
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -236,6 +270,8 @@ graph
     displayname "Prospect Av"
     participation 0
     zscore 1.2967991936617
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -249,6 +285,8 @@ graph
     displayname "25 St"
     participation 0
     zscore -0.218455985484844
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -262,6 +300,8 @@ graph
     displayname "36 St"
     participation 0
     zscore 2.66597941309196
+    role "provincial_hub"
+    rolecolor "yellow"
   ]
   node
   [
@@ -275,6 +315,8 @@ graph
     displayname "45 St"
     participation 0
     zscore -0.459370657852748
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -288,6 +330,8 @@ graph
     displayname "53 St"
     participation 0
     zscore -0.459370657852748
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -301,6 +345,8 @@ graph
     displayname "59 St"
     participation 0
     zscore 0.23612056825912
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -314,6 +360,8 @@ graph
     displayname "Bay Ridge Av"
     participation 0
     zscore -0.746070019086951
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -327,6 +375,8 @@ graph
     displayname "77 St"
     participation 0
     zscore -0.746070019086951
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -340,6 +390,8 @@ graph
     displayname "86 St"
     participation 0
     zscore -0.746070019086951
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -353,6 +405,8 @@ graph
     displayname "Bay Ridge-95 St"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -366,6 +420,8 @@ graph
     displayname "7 Av"
     participation 0
     zscore 1.64454480671764
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -379,6 +435,8 @@ graph
     displayname "Prospect Park"
     participation 0
     zscore 0.82968635606149
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -392,6 +450,8 @@ graph
     displayname "Parkside Av"
     participation 0
     zscore -0.578737882397027
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -405,6 +465,8 @@ graph
     displayname "Church Av"
     participation 0
     zscore -0.044583178956877
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -418,6 +480,8 @@ graph
     displayname "Beverley Rd"
     participation 0
     zscore -0.578737882397027
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -431,6 +495,8 @@ graph
     displayname "Cortelyou Rd"
     participation 0
     zscore -0.578737882397027
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -444,6 +510,8 @@ graph
     displayname "Newkirk Plaza"
     participation 0
     zscore -0.044583178956877
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -457,6 +525,8 @@ graph
     displayname "Avenue H"
     participation 0
     zscore -0.578737882397027
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -470,6 +540,8 @@ graph
     displayname "Avenue J"
     participation 0
     zscore -0.578737882397027
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -483,6 +555,8 @@ graph
     displayname "Avenue M"
     participation 0
     zscore -0.578737882397027
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -496,6 +570,8 @@ graph
     displayname "Kings Hwy"
     participation 0
     zscore -0.044583178956877
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -509,6 +585,8 @@ graph
     displayname "Avenue U"
     participation 0
     zscore -0.578737882397027
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -522,6 +600,8 @@ graph
     displayname "Neck Rd"
     participation 0
     zscore -0.578737882397027
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -535,6 +615,8 @@ graph
     displayname "Sheepshead Bay"
     participation 0
     zscore -0.044583178956877
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -548,6 +630,8 @@ graph
     displayname "Brighton Beach"
     participation 0
     zscore -0.578737882397027
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -561,6 +645,8 @@ graph
     displayname "Ocean Pkwy"
     participation 0
     zscore -0.578737882397027
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -574,6 +660,8 @@ graph
     displayname "W 8 St-NY Aquarium"
     participation 0
     zscore 1.58295349907607
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -587,6 +675,8 @@ graph
     displayname "Coney Island-Stillwell Av"
     participation 0
     zscore 0.176164428077062
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -600,6 +690,8 @@ graph
     displayname "9 Av"
     participation 0
     zscore -0.756971135483689
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -613,6 +705,8 @@ graph
     displayname "Fort Hamilton Pkwy"
     participation 0
     zscore -0.756971135483689
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -626,6 +720,8 @@ graph
     displayname "50 St"
     participation 0
     zscore -0.756971135483689
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -639,6 +735,8 @@ graph
     displayname "55 St"
     participation 0
     zscore -0.756971135483689
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -652,6 +750,8 @@ graph
     displayname "71 St"
     participation 0
     zscore 0.219768893664013
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -665,6 +765,8 @@ graph
     displayname "79 St"
     participation 0
     zscore -0.756971135483689
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -678,6 +780,8 @@ graph
     displayname "18 Av"
     participation 0
     zscore -0.756971135483689
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -691,6 +795,8 @@ graph
     displayname "20 Av"
     participation 0
     zscore -0.756971135483689
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -704,6 +810,8 @@ graph
     displayname "Bay Pkwy"
     participation 0
     zscore -0.756971135483689
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -717,6 +825,8 @@ graph
     displayname "25 Av"
     participation 0
     zscore -0.756971135483689
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -730,6 +840,8 @@ graph
     displayname "Bay 50 St"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -743,6 +855,8 @@ graph
     displayname "8 Av"
     participation 0
     zscore -0.75152057728532
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -756,6 +870,8 @@ graph
     displayname "Fort Hamilton Pkwy"
     participation 0
     zscore -0.75152057728532
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -769,6 +885,8 @@ graph
     displayname "18 Av"
     participation 0
     zscore 0.230670010060751
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -782,6 +900,8 @@ graph
     displayname "20 Av"
     participation 0
     zscore -0.75152057728532
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -795,6 +915,8 @@ graph
     displayname "Bay Pkwy"
     participation 0
     zscore -0.75152057728532
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -808,6 +930,8 @@ graph
     displayname "Kings Hwy"
     participation 0
     zscore -0.75152057728532
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -821,6 +945,8 @@ graph
     displayname "Avenue U"
     participation 0
     zscore -0.75152057728532
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -834,6 +960,8 @@ graph
     displayname "86 St"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -847,6 +975,8 @@ graph
     displayname "121 St"
     participation 0
     zscore 0.389133098565217
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -860,6 +990,8 @@ graph
     displayname "111 St"
     participation 0
     zscore -0.715511128634412
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -873,6 +1005,8 @@ graph
     displayname "104 St"
     participation 0
     zscore -0.755127777547729
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -886,6 +1020,8 @@ graph
     displayname "Woodhaven Blvd"
     participation 0
     zscore -0.715511128634412
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -899,6 +1035,8 @@ graph
     displayname "85 St-Forest Pkwy"
     participation 0.0668467137195257
     zscore -0.794744426461045
+    role "peripheral"
+    rolecolor "red"
   ]
   node
   [
@@ -912,6 +1050,8 @@ graph
     displayname "75 St-Elderts Ln"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -925,6 +1065,8 @@ graph
     displayname "Cypress Hills"
     participation 0
     zscore -0.789129428854065
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -938,6 +1080,8 @@ graph
     displayname "Crescent St"
     participation 0
     zscore -0.756426079663852
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -951,6 +1095,8 @@ graph
     displayname "Norwood Av"
     participation 0
     zscore -0.789129428854065
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -964,6 +1110,8 @@ graph
     displayname "Cleveland St"
     participation 0
     zscore -0.789129428854065
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -977,6 +1125,8 @@ graph
     displayname "Van Siclen Av"
     participation 0
     zscore -0.789129428854065
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -990,6 +1140,8 @@ graph
     displayname "Alabama Av"
     participation 0
     zscore -0.756426079663852
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1003,6 +1155,8 @@ graph
     displayname "Chauncey St"
     participation 0
     zscore 0.193606214311843
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1016,6 +1170,8 @@ graph
     displayname "Halsey St"
     participation 0
     zscore -0.737349125969561
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1029,6 +1185,8 @@ graph
     displayname "Gates Av"
     participation 0
     zscore -0.770052475159774
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1042,6 +1200,8 @@ graph
     displayname "Kosciuszko St"
     participation 0
     zscore -0.770052475159774
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1055,6 +1215,8 @@ graph
     displayname "Myrtle Av"
     participation 0
     zscore 1.05806474457315
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1068,6 +1230,8 @@ graph
     displayname "Flushing Av"
     participation 0
     zscore -0.176486687357404
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1081,6 +1245,8 @@ graph
     displayname "Lorimer St"
     participation 0
     zscore -0.176486687357404
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1094,6 +1260,8 @@ graph
     displayname "Hewes St"
     participation 0
     zscore -0.176486687357404
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1107,6 +1275,8 @@ graph
     displayname "Marcy Av"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1120,6 +1290,8 @@ graph
     displayname "Bowery"
     participation 0
     zscore -0.362891747436707
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1133,6 +1305,8 @@ graph
     displayname "Broad St"
     participation 0
     zscore -0.8986204890594
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1146,6 +1320,8 @@ graph
     displayname "Middle Village-Metropolitan Av"
     participation 0
     zscore -0.704286411442306
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1159,6 +1335,8 @@ graph
     displayname "Fresh Pond Rd"
     participation 0
     zscore -0.704286411442306
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1172,6 +1350,8 @@ graph
     displayname "Forest Av"
     participation 0
     zscore -0.704286411442306
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1185,6 +1365,8 @@ graph
     displayname "Seneca Av"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1198,6 +1380,8 @@ graph
     displayname "Knickerbocker Av"
     participation 0
     zscore 0.239390903178141
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1211,6 +1395,8 @@ graph
     displayname "Central Av"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1224,6 +1410,8 @@ graph
     displayname "3 Av"
     participation 0
     zscore 0.719116192427069
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1237,6 +1425,8 @@ graph
     displayname "1 Av"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1250,6 +1440,8 @@ graph
     displayname "Bedford Av"
     participation 0
     zscore 0.268823917449333
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1263,6 +1455,8 @@ graph
     displayname "Graham Av"
     participation 0
     zscore 2.27135899953006
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1276,6 +1470,8 @@ graph
     displayname "Grand St"
     participation 0
     zscore 0.268823917449333
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1289,6 +1485,8 @@ graph
     displayname "Montrose Av"
     participation 0
     zscore 0.268823917449333
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1302,6 +1500,8 @@ graph
     displayname "Morgan Av"
     participation 0
     zscore 0.268823917449333
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1315,6 +1515,8 @@ graph
     displayname "Jefferson St"
     participation 0
     zscore 0.268823917449333
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1328,6 +1530,8 @@ graph
     displayname "DeKalb Av"
     participation 0
     zscore 0.268823917449333
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1341,6 +1545,8 @@ graph
     displayname "Halsey St"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1354,6 +1560,8 @@ graph
     displayname "Wilson Av"
     participation 0
     zscore 0.217043614564829
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1367,6 +1575,8 @@ graph
     displayname "Bushwick Av-Aberdeen St"
     participation 0
     zscore 0.217043614564829
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1380,6 +1590,8 @@ graph
     displayname "Atlantic Av"
     participation 0
     zscore 2.16779839376105
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1393,6 +1605,8 @@ graph
     displayname "Sutter Av"
     participation 0
     zscore 0.217043614564829
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1406,6 +1620,8 @@ graph
     displayname "Livonia Av"
     participation 0
     zscore 0.217043614564829
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1419,6 +1635,8 @@ graph
     displayname "New Lots Av"
     participation 0
     zscore 0.217043614564829
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1432,6 +1650,8 @@ graph
     displayname "East 105 St"
     participation 0
     zscore 0.147821525445544
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1445,6 +1665,8 @@ graph
     displayname "Canarsie-Rockaway Pkwy"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1458,6 +1680,8 @@ graph
     displayname "Park Pl"
     participation 0
     zscore 0.0148279054053437
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1471,6 +1695,8 @@ graph
     displayname "Inwood-207 St"
     participation 0
     zscore -0.818319791463876
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1484,6 +1710,8 @@ graph
     displayname "Dyckman St"
     participation 0
     zscore -0.805131720690888
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1497,6 +1725,8 @@ graph
     displayname "190 St"
     participation 0
     zscore -0.805131720690888
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1510,6 +1740,8 @@ graph
     displayname "181 St"
     participation 0
     zscore -0.805131720690888
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1523,6 +1755,8 @@ graph
     displayname "175 St"
     participation 0
     zscore -0.805131720690888
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1536,6 +1770,8 @@ graph
     displayname "163 St-Amsterdam Av"
     participation 0
     zscore -0.445536990947428
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1549,6 +1785,8 @@ graph
     displayname "155 St"
     participation 0
     zscore -0.939943110814761
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1562,6 +1800,8 @@ graph
     displayname "145 St"
     participation 0.0372358676541105
     zscore 1.51977862246711
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1575,6 +1815,8 @@ graph
     displayname "135 St"
     participation 0
     zscore -0.642478847824042
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1588,6 +1830,8 @@ graph
     displayname "125 St"
     participation 0
     zscore 0.404947039790567
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1601,6 +1845,8 @@ graph
     displayname "116 St"
     participation 0
     zscore -0.652736236203032
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1614,6 +1860,8 @@ graph
     displayname "Cathedral Pkwy (110 St)"
     participation 0
     zscore -0.652736236203032
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1627,6 +1875,8 @@ graph
     displayname "103 St"
     participation 0
     zscore -0.652736236203032
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1640,6 +1890,8 @@ graph
     displayname "96 St"
     participation 0
     zscore -0.652736236203032
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1653,6 +1905,8 @@ graph
     displayname "86 St"
     participation 0
     zscore -0.652736236203032
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1666,6 +1920,8 @@ graph
     displayname "81 St-Museum of Natural History"
     participation 0
     zscore -0.652736236203032
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1679,6 +1935,8 @@ graph
     displayname "72 St"
     participation 0
     zscore -0.652736236203032
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1692,6 +1950,8 @@ graph
     displayname "50 St"
     participation 0
     zscore 1.0022201116872
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1705,6 +1965,8 @@ graph
     displayname "34 St-Penn Station"
     participation 0
     zscore 2.0613687288778
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1718,6 +1980,8 @@ graph
     displayname "23 St"
     participation 0
     zscore -0.216064559497446
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1731,6 +1995,8 @@ graph
     displayname "W 4 St-Wash Sq"
     participation 0
     zscore 5.67196943828238
+    role "provincial_hub"
+    rolecolor "yellow"
   ]
   node
   [
@@ -1744,6 +2010,8 @@ graph
     displayname "Spring St"
     participation 0
     zscore -0.216064559497446
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1757,6 +2025,8 @@ graph
     displayname "Canal St"
     participation 0
     zscore 0.313509749097853
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1770,6 +2040,8 @@ graph
     displayname "High St"
     participation 0.5
     zscore 0.170713869878693
+    role "non_hub_connector"
+    rolecolor "green"
   ]
   node
   [
@@ -1783,6 +2055,8 @@ graph
     displayname "Hoyt-Schermerhorn Sts"
     participation 0
     zscore 4.10710700074069
+    role "provincial_hub"
+    rolecolor "yellow"
   ]
   node
   [
@@ -1796,6 +2070,8 @@ graph
     displayname "Lafayette Av"
     participation 0
     zscore -0.811476717467378
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1809,6 +2085,8 @@ graph
     displayname "Clinton-Washington Avs"
     participation 0
     zscore -0.811476717467378
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1822,6 +2100,8 @@ graph
     displayname "Nostrand Av"
     participation 0
     zscore 1.09294831704271
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1835,6 +2115,8 @@ graph
     displayname "Kingston-Throop Avs"
     participation 0
     zscore -0.811476717467378
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1848,6 +2130,8 @@ graph
     displayname "Utica Av"
     participation 0
     zscore 0.170713869878693
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1861,6 +2145,8 @@ graph
     displayname "Ralph Av"
     participation 0
     zscore -0.811476717467378
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1874,6 +2160,8 @@ graph
     displayname "Rockaway Av"
     participation 0
     zscore -0.811476717467378
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1887,6 +2175,8 @@ graph
     displayname "Liberty Av"
     participation 0
     zscore 0.110757729696636
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1900,6 +2190,8 @@ graph
     displayname "Van Siclen Av"
     participation 0
     zscore -0.811476717467378
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1913,6 +2205,8 @@ graph
     displayname "Shepherd Av"
     participation 0
     zscore -0.811476717467378
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1926,6 +2220,8 @@ graph
     displayname "Euclid Av"
     participation 0
     zscore 0.576235399837338
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1939,6 +2235,8 @@ graph
     displayname "Grant Av"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1952,6 +2250,8 @@ graph
     displayname "80 St"
     participation 0
     zscore -0.290952707780042
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1965,6 +2265,8 @@ graph
     displayname "88 St"
     participation 0
     zscore -0.290952707780042
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1978,6 +2280,8 @@ graph
     displayname "Rockaway Blvd"
     participation 0
     zscore -0.290952707780042
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -1991,6 +2295,8 @@ graph
     displayname "104 St"
     participation 0
     zscore -1.10045290057547
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2004,6 +2310,8 @@ graph
     displayname "111 St"
     participation 0
     zscore -1.10045290057547
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2017,6 +2325,8 @@ graph
     displayname "Ozone Park-Lefferts Blvd"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2030,6 +2340,8 @@ graph
     displayname "Aqueduct Racetrack"
     participation 0
     zscore -1.50058105459996
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2043,6 +2355,8 @@ graph
     displayname "Aqueduct-N Conduit Av"
     participation 0
     zscore -1.08988846086525
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2056,6 +2370,8 @@ graph
     displayname "Howard Beach-JFK Airport"
     participation 0
     zscore -1.08988846086525
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2069,6 +2385,8 @@ graph
     displayname "Broad Channel"
     participation 0
     zscore -0.328588524247692
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2082,6 +2400,8 @@ graph
     displayname "Beach 90 St"
     participation 0
     zscore -1.10507484294869
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2095,6 +2415,8 @@ graph
     displayname "Beach 98 St"
     participation 0
     zscore -1.10507484294869
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2108,6 +2430,8 @@ graph
     displayname "Beach 105 St"
     participation 0
     zscore -1.10507484294869
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2121,6 +2445,8 @@ graph
     displayname "Rockaway Park-Beach 116 St"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2134,6 +2460,8 @@ graph
     displayname "Beach 67 St"
     participation 0
     zscore -1.12290233495968
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2147,6 +2475,8 @@ graph
     displayname "Beach 60 St"
     participation 0
     zscore -1.12290233495968
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2160,6 +2490,8 @@ graph
     displayname "Beach 44 St"
     participation 0
     zscore -1.12290233495968
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2173,6 +2505,8 @@ graph
     displayname "Beach 36 St"
     participation 0
     zscore -1.12290233495968
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2186,6 +2520,8 @@ graph
     displayname "Beach 25 St"
     participation 0
     zscore -1.12290233495968
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2199,6 +2535,8 @@ graph
     displayname "Far Rockaway-Mott Av"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2212,6 +2550,8 @@ graph
     displayname "Norwood-205 St"
     participation 0
     zscore -1.20414799128187
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2225,6 +2565,8 @@ graph
     displayname "Bedford Park Blvd"
     participation 0
     zscore -0.593547814373182
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2238,6 +2580,8 @@ graph
     displayname "Kingsbridge Rd"
     participation 0
     zscore -0.570360465882979
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2251,6 +2595,8 @@ graph
     displayname "Fordham Rd"
     participation 0
     zscore -0.570360465882979
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2264,6 +2610,8 @@ graph
     displayname "182-183 Sts"
     participation 0
     zscore -0.894983344745825
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2277,6 +2625,8 @@ graph
     displayname "Tremont Av"
     participation 0
     zscore -0.871795996255622
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2290,6 +2640,8 @@ graph
     displayname "174-175 Sts"
     participation 0
     zscore -0.871795996255622
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2303,6 +2655,8 @@ graph
     displayname "170 St"
     participation 0
     zscore -0.871795996255622
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2316,6 +2670,8 @@ graph
     displayname "167 St"
     participation 0
     zscore -0.871795996255622
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2329,6 +2685,8 @@ graph
     displayname "155 St"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2342,6 +2700,8 @@ graph
     displayname "21 St-Queensbridge"
     participation 0.5
     zscore -0.329248801729581
+    role "non_hub_connector"
+    rolecolor "green"
   ]
   node
   [
@@ -2355,6 +2715,8 @@ graph
     displayname "Roosevelt Island"
     participation 0
     zscore -0.737432957389552
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2368,6 +2730,8 @@ graph
     displayname "Lexington Av/63 St"
     participation 0
     zscore -0.0973719225405578
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2381,6 +2745,8 @@ graph
     displayname "57 St"
     participation 0
     zscore -0.737432957389552
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2394,6 +2760,8 @@ graph
     displayname "47-50 Sts-Rockefeller Ctr"
     participation 0
     zscore 1.47933520542995
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2407,6 +2775,8 @@ graph
     displayname "23 St"
     participation 0
     zscore 0.545619794702434
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2420,6 +2790,8 @@ graph
     displayname "Grand St"
     participation 0.436218244795045
     zscore -0.621964071066061
+    role "non_hub_connector"
+    rolecolor "green"
   ]
   node
   [
@@ -2433,6 +2805,8 @@ graph
     displayname "2 Av"
     participation 0
     zscore -0.0405166840970117
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2446,6 +2820,8 @@ graph
     displayname "East Broadway"
     participation 0.5
     zscore -0.737432957389552
+    role "non_hub_connector"
+    rolecolor "green"
   ]
   node
   [
@@ -2459,6 +2835,8 @@ graph
     displayname "York St"
     participation 0
     zscore -0.437568425059273
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2472,6 +2850,8 @@ graph
     displayname "Bergen St"
     participation 0
     zscore 1.85275612989533
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2485,6 +2865,8 @@ graph
     displayname "Carroll St"
     participation 0
     zscore 0.567514506719948
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2498,6 +2880,8 @@ graph
     displayname "Smith-9 Sts"
     participation 0
     zscore 0.567514506719948
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2511,6 +2895,8 @@ graph
     displayname "7 Av"
     participation 0
     zscore 2.89054241086476
+    role "provincial_hub"
+    rolecolor "yellow"
   ]
   node
   [
@@ -2524,6 +2910,8 @@ graph
     displayname "15 St-Prospect Park"
     participation 0
     zscore 0.567514506719948
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2537,6 +2925,8 @@ graph
     displayname "Fort Hamilton Pkwy"
     participation 0
     zscore 0.567514506719948
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2550,6 +2940,8 @@ graph
     displayname "Church Av"
     participation 0
     zscore -0.443018983257642
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2563,6 +2955,8 @@ graph
     displayname "Ditmas Av"
     participation 0
     zscore -0.443018983257642
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2576,6 +2970,8 @@ graph
     displayname "18 Av"
     participation 0
     zscore -0.443018983257642
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2589,6 +2985,8 @@ graph
     displayname "Avenue I"
     participation 0
     zscore -0.443018983257642
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2602,6 +3000,8 @@ graph
     displayname "Bay Pkwy"
     participation 0
     zscore -0.443018983257642
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2615,6 +3015,8 @@ graph
     displayname "Avenue N"
     participation 0
     zscore -0.443018983257642
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2628,6 +3030,8 @@ graph
     displayname "Avenue P"
     participation 0
     zscore -0.443018983257642
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2641,6 +3045,8 @@ graph
     displayname "Kings Hwy"
     participation 0
     zscore -0.633788520200552
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2654,6 +3060,8 @@ graph
     displayname "Avenue U"
     participation 0
     zscore -0.633788520200552
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2667,6 +3075,8 @@ graph
     displayname "Avenue X"
     participation 0
     zscore -0.652865473894843
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2680,6 +3090,8 @@ graph
     displayname "Neptune Av"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2693,6 +3105,8 @@ graph
     displayname "Jamaica-179 St"
     participation 0
     zscore -0.283029377997379
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2706,6 +3120,8 @@ graph
     displayname "169 St"
     participation 0
     zscore -0.322646026910695
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2719,6 +3135,8 @@ graph
     displayname "Parsons Blvd"
     participation 0
     zscore -0.283029377997379
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2732,6 +3150,8 @@ graph
     displayname "Sutphin Blvd"
     participation 0
     zscore -0.322646026910695
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2745,6 +3165,8 @@ graph
     displayname "Briarwood"
     participation 0
     zscore 1.15637553251977
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2758,6 +3180,8 @@ graph
     displayname "Kew Gardens-Union Tpke"
     participation 0
     zscore 2.14679175535267
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2771,6 +3195,8 @@ graph
     displayname "75 Av"
     participation 0
     zscore 0.416864752804538
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2784,6 +3210,8 @@ graph
     displayname "Forest Hills-71 Av"
     participation 0
     zscore 2.98666471231497
+    role "provincial_hub"
+    rolecolor "yellow"
   ]
   node
   [
@@ -2797,6 +3225,8 @@ graph
     displayname "67 Av"
     participation 0
     zscore -0.00967450049549821
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2810,6 +3240,8 @@ graph
     displayname "63 Dr-Rego Park"
     participation 0
     zscore -0.00967450049549821
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2823,6 +3255,8 @@ graph
     displayname "Woodhaven Blvd"
     participation 0
     zscore -0.00967450049549821
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2836,6 +3270,8 @@ graph
     displayname "Grand Av-Newtown"
     participation 0
     zscore -0.00967450049549821
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2849,6 +3285,8 @@ graph
     displayname "Elmhurst Av"
     participation 0
     zscore -0.00967450049549821
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2862,6 +3300,8 @@ graph
     displayname "65 St"
     participation 0
     zscore 1.88003965266968
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2875,6 +3315,8 @@ graph
     displayname "Northern Blvd"
     participation 0
     zscore -0.00967450049549821
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2888,6 +3330,8 @@ graph
     displayname "46 St"
     participation 0
     zscore -0.00967450049549821
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2901,6 +3345,8 @@ graph
     displayname "Steinway St"
     participation 0
     zscore -0.00967450049549821
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2914,6 +3360,8 @@ graph
     displayname "36 St"
     participation 0
     zscore -0.00967450049549821
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2927,6 +3375,8 @@ graph
     displayname "Queens Plaza"
     participation 0.338796804815653
     zscore 1.81797356937215
+    role "peripheral"
+    rolecolor "red"
   ]
   node
   [
@@ -2940,6 +3390,8 @@ graph
     displayname "5 Av/53 St"
     participation 0
     zscore 0.30647611135226
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2953,6 +3405,8 @@ graph
     displayname "7 Av"
     participation 0
     zscore -0.619033388672064
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2966,6 +3420,8 @@ graph
     displayname "Jamaica Center-Parsons/Archer"
     participation 0
     zscore 0.869154827898229
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2979,6 +3435,8 @@ graph
     displayname "Sutphin Blvd-Archer Av-JFK Airport"
     participation 0
     zscore -0.314722697128032
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -2992,6 +3450,8 @@ graph
     displayname "Jamaica-Van Wyck"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3005,6 +3465,8 @@ graph
     displayname "21 St"
     participation 0.5
     zscore -0.668631427420322
+    role "non_hub_connector"
+    rolecolor "green"
   ]
   node
   [
@@ -3018,6 +3480,8 @@ graph
     displayname "Greenpoint Av"
     participation 0
     zscore -0.717727116455433
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3031,6 +3495,8 @@ graph
     displayname "Nassau Av"
     participation 0
     zscore -0.717727116455433
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3044,6 +3510,8 @@ graph
     displayname "Broadway"
     participation 0
     zscore 0.298256931720525
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3057,6 +3525,8 @@ graph
     displayname "Flushing Av"
     participation 0
     zscore -0.717727116455433
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3070,6 +3540,8 @@ graph
     displayname "Myrtle-Willoughby Avs"
     participation 0
     zscore -0.717727116455433
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3083,6 +3555,8 @@ graph
     displayname "Bedford-Nostrand Avs"
     participation 0
     zscore -0.717727116455433
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3096,6 +3570,8 @@ graph
     displayname "Classon Av"
     participation 0
     zscore -0.717727116455433
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3109,6 +3585,8 @@ graph
     displayname "Clinton-Washington Avs"
     participation 0
     zscore -0.717727116455433
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3122,6 +3600,8 @@ graph
     displayname "Fulton St"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3135,6 +3615,8 @@ graph
     displayname "Van Cortlandt Park-242 St"
     participation 0
     zscore 0.2752048423931
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3148,6 +3630,8 @@ graph
     displayname "238 St"
     participation 0
     zscore 0.398870701007517
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3161,6 +3645,8 @@ graph
     displayname "231 St"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3174,6 +3660,8 @@ graph
     displayname "Marble Hill-225 St"
     participation 0
     zscore -0.608189863814274
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3187,6 +3675,8 @@ graph
     displayname "215 St"
     participation 0
     zscore -0.600863157829281
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3200,6 +3690,8 @@ graph
     displayname "207 St"
     participation 0
     zscore -0.600863157829281
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3213,6 +3705,8 @@ graph
     displayname "Dyckman St"
     participation 0
     zscore -0.600863157829281
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3226,6 +3720,8 @@ graph
     displayname "191 St"
     participation 0
     zscore -0.600863157829281
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3239,6 +3735,8 @@ graph
     displayname "181 St"
     participation 0
     zscore -0.600863157829281
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3252,6 +3750,8 @@ graph
     displayname "157 St"
     participation 0
     zscore 0.23262291502353
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3265,6 +3765,8 @@ graph
     displayname "145 St"
     participation 0
     zscore -0.600863157829281
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3278,6 +3780,8 @@ graph
     displayname "137 St-City College"
     participation 0
     zscore -0.586209745859295
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3291,6 +3795,8 @@ graph
     displayname "125 St"
     participation 0
     zscore -0.586209745859295
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3304,6 +3810,8 @@ graph
     displayname "116 St-Columbia University"
     participation 0
     zscore -0.586209745859295
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3317,6 +3825,8 @@ graph
     displayname "Cathedral Pkwy (110 St)"
     participation 0
     zscore -0.586209745859295
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3330,6 +3840,8 @@ graph
     displayname "103 St"
     participation 0
     zscore -0.586209745859295
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3343,6 +3855,8 @@ graph
     displayname "96 St"
     participation 0
     zscore 1.80639936060004
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3356,6 +3870,8 @@ graph
     displayname "86 St"
     participation 0
     zscore -0.516166436642762
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3369,6 +3885,8 @@ graph
     displayname "79 St"
     participation 0
     zscore -0.516166436642762
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3382,6 +3900,8 @@ graph
     displayname "72 St"
     participation 0
     zscore 0.610094807370373
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3395,6 +3915,8 @@ graph
     displayname "66 St-Lincoln Center"
     participation 0
     zscore -0.516166436642762
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3408,6 +3930,8 @@ graph
     displayname "50 St"
     participation 0
     zscore 0.40201635739657
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3421,6 +3945,8 @@ graph
     displayname "34 St-Penn Station"
     participation 0
     zscore 2.46580289924942
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3434,6 +3960,8 @@ graph
     displayname "28 St"
     participation 0
     zscore -0.516166436642762
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3447,6 +3975,8 @@ graph
     displayname "23 St"
     participation 0
     zscore -0.516166436642762
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3460,6 +3990,8 @@ graph
     displayname "18 St"
     participation 0
     zscore -0.516166436642762
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3473,6 +4005,8 @@ graph
     displayname "Christopher St-Sheridan Sq"
     participation 0
     zscore 0.40201635739657
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3486,6 +4020,8 @@ graph
     displayname "Houston St"
     participation 0
     zscore -0.516166436642762
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3499,6 +4035,8 @@ graph
     displayname "Canal St"
     participation 0
     zscore -0.516166436642762
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3512,6 +4050,8 @@ graph
     displayname "Franklin St"
     participation 0
     zscore -0.516166436642762
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3525,6 +4065,8 @@ graph
     displayname "Chambers St"
     participation 0
     zscore 1.54762010521009
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3538,6 +4080,8 @@ graph
     displayname "WTC Cortlandt"
     participation 0
     zscore -0.586209745859295
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3551,6 +4095,8 @@ graph
     displayname "Rector St"
     participation 0
     zscore -0.586209745859295
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3564,6 +4110,8 @@ graph
     displayname "Wall St"
     participation 0.5
     zscore -0.332412650539135
+    role "non_hub_connector"
+    rolecolor "green"
   ]
   node
   [
@@ -3577,6 +4125,8 @@ graph
     displayname "Clark St"
     participation 0
     zscore 0.315698717955306
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3590,6 +4140,8 @@ graph
     displayname "Hoyt St"
     participation 0
     zscore 2.365108600542
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3603,6 +4155,8 @@ graph
     displayname "Nevins St"
     participation 0
     zscore 4.23355995094285
+    role "provincial_hub"
+    rolecolor "yellow"
   ]
   node
   [
@@ -3616,6 +4170,8 @@ graph
     displayname "Bergen St"
     participation 0
     zscore 2.83603682888107
+    role "provincial_hub"
+    rolecolor "yellow"
   ]
   node
   [
@@ -3629,6 +4185,8 @@ graph
     displayname "Grand Army Plaza"
     participation 0
     zscore 0.551162832124841
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3642,6 +4200,8 @@ graph
     displayname "Eastern Pkwy-Brooklyn Museum"
     participation 0
     zscore 0.551162832124841
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3655,6 +4215,8 @@ graph
     displayname "Nostrand Av"
     participation 0
     zscore 0.587136516234075
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3668,6 +4230,8 @@ graph
     displayname "Kingston Av"
     participation 0
     zscore -0.573287324198658
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3681,6 +4245,8 @@ graph
     displayname "Crown Hts-Utica Av"
     participation 0
     zscore 0.542986994827288
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3694,6 +4260,8 @@ graph
     displayname "Sutter Av-Rutland Rd"
     participation 0
     zscore -0.572197212558984
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3707,6 +4275,8 @@ graph
     displayname "Saratoga Av"
     participation 0
     zscore -0.572197212558984
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3720,6 +4290,8 @@ graph
     displayname "Rockaway Av"
     participation 0
     zscore -0.572197212558984
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3733,6 +4305,8 @@ graph
     displayname "Junius St"
     participation 0
     zscore -0.572197212558984
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3746,6 +4320,8 @@ graph
     displayname "Pennsylvania Av"
     participation 0
     zscore -0.572197212558984
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3759,6 +4335,8 @@ graph
     displayname "Van Siclen Av"
     participation 0
     zscore -0.572197212558984
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3772,6 +4350,8 @@ graph
     displayname "New Lots Av"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3785,6 +4365,8 @@ graph
     displayname "President Street-Medgar Evers College"
     participation 0
     zscore 1.73175373789154
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3798,6 +4380,8 @@ graph
     displayname "Sterling St"
     participation 0
     zscore -0.00097871336992605
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3811,6 +4395,8 @@ graph
     displayname "Winthrop St"
     participation 0
     zscore -0.00097871336992605
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3824,6 +4410,8 @@ graph
     displayname "Church Av"
     participation 0
     zscore -0.00097871336992605
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3837,6 +4425,8 @@ graph
     displayname "Beverly Rd"
     participation 0
     zscore -0.00097871336992605
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3850,6 +4440,8 @@ graph
     displayname "Newkirk Av - Little Haiti"
     participation 0
     zscore -0.00097871336992605
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3863,6 +4455,8 @@ graph
     displayname "Flatbush Av-Brooklyn College"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3876,6 +4470,8 @@ graph
     displayname "Pelham Bay Park"
     participation 0
     zscore -0.389499147659394
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3889,6 +4485,8 @@ graph
     displayname "Buhre Av"
     participation 0
     zscore -0.389499147659394
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3902,6 +4500,8 @@ graph
     displayname "Middletown Rd"
     participation 0
     zscore -0.389499147659394
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3915,6 +4515,8 @@ graph
     displayname "Westchester Sq-E Tremont Av"
     participation 0
     zscore -0.389499147659394
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3928,6 +4530,8 @@ graph
     displayname "Zerega Av"
     participation 0
     zscore -0.389499147659394
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3941,6 +4545,8 @@ graph
     displayname "Castle Hill Av"
     participation 0
     zscore -0.389499147659394
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3954,6 +4560,8 @@ graph
     displayname "Parkchester"
     participation 0
     zscore 1.11767850420382
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3967,6 +4575,8 @@ graph
     displayname "St Lawrence Av"
     participation 0
     zscore 0.259746610066298
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3980,6 +4590,8 @@ graph
     displayname "Morrison Av-Soundview"
     participation 0
     zscore 0.259746610066298
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -3993,6 +4605,8 @@ graph
     displayname "Elder Av"
     participation 0
     zscore 0.259746610066298
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4006,6 +4620,8 @@ graph
     displayname "Whitlock Av"
     participation 0
     zscore 0.259746610066298
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4019,6 +4635,8 @@ graph
     displayname "Hunts Point Av"
     participation 0
     zscore 1.11767850420382
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4032,6 +4650,8 @@ graph
     displayname "Longwood Av"
     participation 0
     zscore 0.244288377739496
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4045,6 +4665,8 @@ graph
     displayname "E 149 St"
     participation 0
     zscore 0.244288377739496
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4058,6 +4680,8 @@ graph
     displayname "E 143 St-St Mary's St"
     participation 0
     zscore 0.244288377739496
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4071,6 +4695,8 @@ graph
     displayname "Cypress Av"
     participation 0
     zscore 0.244288377739496
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4084,6 +4710,8 @@ graph
     displayname "Brook Av"
     participation 0
     zscore 0.244288377739496
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4097,6 +4725,8 @@ graph
     displayname "3 Av-138 St"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4110,6 +4740,8 @@ graph
     displayname "Woodlawn"
     participation 0
     zscore -0.513165006273811
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4123,6 +4755,8 @@ graph
     displayname "Mosholu Pkwy"
     participation 0
     zscore -0.513165006273811
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4136,6 +4770,8 @@ graph
     displayname "Bedford Park Blvd-Lehman College"
     participation 0
     zscore -0.389499147659394
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4149,6 +4785,8 @@ graph
     displayname "Kingsbridge Rd"
     participation 0
     zscore -0.381770031495993
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4162,6 +4800,8 @@ graph
     displayname "Fordham Rd"
     participation 0
     zscore -0.381770031495993
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4175,6 +4815,8 @@ graph
     displayname "183 St"
     participation 0
     zscore -0.381770031495993
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4188,6 +4830,8 @@ graph
     displayname "Burnside Av"
     participation 0
     zscore -0.273562405208377
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4201,6 +4845,8 @@ graph
     displayname "176 St"
     participation 0
     zscore -0.381770031495993
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4214,6 +4860,8 @@ graph
     displayname "Mt Eden Av"
     participation 0
     zscore -0.381770031495993
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4227,6 +4875,8 @@ graph
     displayname "170 St"
     participation 0
     zscore -0.381770031495993
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4240,6 +4890,8 @@ graph
     displayname "167 St"
     participation 0
     zscore -0.273562405208377
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4253,6 +4905,8 @@ graph
     displayname "138 St-Grand Concourse"
     participation 0.5
     zscore 1.96942710541062
+    role "non_hub_connector"
+    rolecolor "green"
   ]
   node
   [
@@ -4266,6 +4920,8 @@ graph
     displayname "125 St"
     participation 0.0573916926543936
     zscore 0.72966664904546
+    role "peripheral"
+    rolecolor "red"
   ]
   node
   [
@@ -4279,6 +4935,8 @@ graph
     displayname "116 St"
     participation 0
     zscore -0.40186982327687
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4292,6 +4950,8 @@ graph
     displayname "110 St"
     participation 0
     zscore -0.40186982327687
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4305,6 +4965,8 @@ graph
     displayname "103 St"
     participation 0
     zscore -0.40186982327687
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4318,6 +4980,8 @@ graph
     displayname "96 St"
     participation 0
     zscore -0.40186982327687
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4331,6 +4995,8 @@ graph
     displayname "86 St"
     participation 0
     zscore 0.72966664904546
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4344,6 +5010,8 @@ graph
     displayname "77 St"
     participation 0
     zscore -0.40186982327687
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4357,6 +5025,8 @@ graph
     displayname "68 St-Hunter College"
     participation 0
     zscore -0.40186982327687
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4370,6 +5040,8 @@ graph
     displayname "33 St"
     participation 0
     zscore 0.630609584128353
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4383,6 +5055,8 @@ graph
     displayname "28 St"
     participation 0
     zscore -0.40186982327687
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4396,6 +5070,8 @@ graph
     displayname "23 St"
     participation 0
     zscore -0.40186982327687
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4409,6 +5085,8 @@ graph
     displayname "Astor Pl"
     participation 0
     zscore 0.630609584128353
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4422,6 +5100,8 @@ graph
     displayname "Spring St"
     participation 0
     zscore 0.630609584128353
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4435,6 +5115,8 @@ graph
     displayname "Wall St"
     participation 0
     zscore 0.945364873243655
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4448,6 +5130,8 @@ graph
     displayname "Bowling Green"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4461,6 +5145,8 @@ graph
     displayname "Wakefield-241 St"
     participation 0
     zscore -0.675476445705234
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4474,6 +5160,8 @@ graph
     displayname "Nereid Av"
     participation 0
     zscore -0.459061193130003
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4487,6 +5175,8 @@ graph
     displayname "233 St"
     participation 0
     zscore -0.459061193130003
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4500,6 +5190,8 @@ graph
     displayname "225 St"
     participation 0
     zscore -0.459061193130003
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4513,6 +5205,8 @@ graph
     displayname "219 St"
     participation 0
     zscore -0.459061193130003
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4526,6 +5220,8 @@ graph
     displayname "Gun Hill Rd"
     participation 0
     zscore -0.443602960803201
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4539,6 +5235,8 @@ graph
     displayname "Burke Av"
     participation 0
     zscore -0.459061193130003
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4552,6 +5250,8 @@ graph
     displayname "Allerton Av"
     participation 0
     zscore -0.459061193130003
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4565,6 +5265,8 @@ graph
     displayname "Pelham Pkwy"
     participation 0
     zscore -0.459061193130003
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4578,6 +5280,8 @@ graph
     displayname "Bronx Park East"
     participation 0
     zscore -0.459061193130003
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4591,6 +5295,8 @@ graph
     displayname "E 180 St"
     participation 0
     zscore 4.81065020707686
+    role "provincial_hub"
+    rolecolor "yellow"
   ]
   node
   [
@@ -4604,6 +5310,8 @@ graph
     displayname "West Farms Sq-E Tremont Av"
     participation 0
     zscore 1.35109781233853
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4617,6 +5325,8 @@ graph
     displayname "174 St"
     participation 0
     zscore 1.35109781233853
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4630,6 +5340,8 @@ graph
     displayname "Freeman St"
     participation 0
     zscore 1.35109781233853
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4643,6 +5355,8 @@ graph
     displayname "Simpson St"
     participation 0
     zscore 1.35109781233853
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4656,6 +5370,8 @@ graph
     displayname "Intervale Av"
     participation 0
     zscore 1.35109781233853
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4669,6 +5385,8 @@ graph
     displayname "Prospect Av"
     participation 0
     zscore 1.35109781233853
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4682,6 +5400,8 @@ graph
     displayname "Jackson Av"
     participation 0
     zscore 1.35109781233853
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4695,6 +5415,8 @@ graph
     displayname "3 Av-149 St"
     participation 0
     zscore 1.94623975692042
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4708,6 +5430,8 @@ graph
     displayname "Harlem-148 St"
     participation 0
     zscore -0.870779006316426
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4721,6 +5445,8 @@ graph
     displayname "145 St"
     participation 0
     zscore -0.86638298272543
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4734,6 +5460,8 @@ graph
     displayname "135 St"
     participation 0.451553844694884
     zscore -0.238044677452425
+    role "non_hub_connector"
+    rolecolor "green"
   ]
   node
   [
@@ -4747,6 +5475,8 @@ graph
     displayname "125 St"
     participation 0
     zscore -0.238044677452425
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4760,6 +5490,8 @@ graph
     displayname "116 St"
     participation 0
     zscore -0.238044677452425
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4773,6 +5505,8 @@ graph
     displayname "Central Park North (110 St)"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4786,6 +5520,8 @@ graph
     displayname "Eastchester-Dyre Av"
     participation 0
     zscore -1.09439454176157
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4799,6 +5535,8 @@ graph
     displayname "Baychester Av"
     participation 0
     zscore -1.09439454176157
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4812,6 +5550,8 @@ graph
     displayname "Gun Hill Rd"
     participation 0
     zscore -1.09439454176157
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4825,6 +5565,8 @@ graph
     displayname "Pelham Pkwy"
     participation 0
     zscore -1.09439454176157
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4838,6 +5580,8 @@ graph
     displayname "Morris Park"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4851,6 +5595,8 @@ graph
     displayname "Flushing-Main St"
     participation 0
     zscore 0.57136968356647
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4864,6 +5610,8 @@ graph
     displayname "Mets-Willets Point"
     participation 0
     zscore 0.696822405125305
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4877,6 +5625,8 @@ graph
     displayname "111 St"
     participation 0
     zscore 0.40630031309432
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4890,6 +5640,8 @@ graph
     displayname "103 St-Corona Plaza"
     participation 0
     zscore 0.40630031309432
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4903,6 +5655,8 @@ graph
     displayname "Junction Blvd"
     participation 0
     zscore 0.762850153314165
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4916,6 +5670,8 @@ graph
     displayname "90 St-Elmhurst Av"
     participation 0
     zscore 0.40630031309432
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4929,6 +5685,8 @@ graph
     displayname "82 St-Jackson Hts"
     participation 0
     zscore 0.40630031309432
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4942,6 +5700,8 @@ graph
     displayname "69 St"
     participation 0
     zscore 2.71198927984931
+    role "provincial_hub"
+    rolecolor "yellow"
   ]
   node
   [
@@ -4955,6 +5715,8 @@ graph
     displayname "Woodside-61 St"
     participation 0
     zscore 0.762850153314165
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4968,6 +5730,8 @@ graph
     displayname "52 St"
     participation 0
     zscore 0.40630031309432
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4981,6 +5745,8 @@ graph
     displayname "46 St-Bliss St"
     participation 0
     zscore 0.40630031309432
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -4994,6 +5760,8 @@ graph
     displayname "40 St-Lowery St"
     participation 0
     zscore 0.40630031309432
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5007,6 +5775,8 @@ graph
     displayname "33 St-Rawson St"
     participation 0
     zscore 0.40630031309432
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5020,6 +5790,8 @@ graph
     displayname "Queensboro Plaza"
     participation 0.478686474412488
     zscore 0.762850153314165
+    role "non_hub_connector"
+    rolecolor "green"
   ]
   node
   [
@@ -5033,6 +5805,8 @@ graph
     displayname "Hunters Point Av"
     participation 0
     zscore 3.425088960289
+    role "provincial_hub"
+    rolecolor "yellow"
   ]
   node
   [
@@ -5046,6 +5820,8 @@ graph
     displayname "Vernon Blvd-Jackson Av"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5059,6 +5835,8 @@ graph
     displayname "34 St-Hudson Yards"
     participation 0
     zscore -0.252698089422411
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5072,6 +5850,8 @@ graph
     displayname "96 St"
     participation 0
     zscore -0.794288195833098
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5085,6 +5865,8 @@ graph
     displayname "86 St"
     participation 0
     zscore -0.794288195833098
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5098,6 +5880,8 @@ graph
     displayname "72 St"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5111,6 +5895,8 @@ graph
     displayname "St George"
     participation 0
     zscore 3.33492301240521
+    role "provincial_hub"
+    rolecolor "yellow"
   ]
   node
   [
@@ -5124,6 +5910,8 @@ graph
     displayname "Tompkinsville"
     participation 0
     zscore -0.861834036913705
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5137,6 +5925,8 @@ graph
     displayname "Stapleton"
     participation 0
     zscore -0.861834036913705
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5150,6 +5940,8 @@ graph
     displayname "Clifton"
     participation 0
     zscore -0.861834036913705
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5163,6 +5955,8 @@ graph
     displayname "Grasmere"
     participation 0
     zscore -0.861834036913705
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5176,6 +5970,8 @@ graph
     displayname "Old Town"
     participation 0
     zscore -0.861834036913705
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5189,6 +5985,8 @@ graph
     displayname "Dongan Hills"
     participation 0
     zscore -0.861834036913705
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5202,6 +6000,8 @@ graph
     displayname "Jefferson Av"
     participation 0
     zscore -0.861834036913705
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5215,6 +6015,8 @@ graph
     displayname "Grant City"
     participation 0
     zscore -0.861834036913705
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5228,6 +6030,8 @@ graph
     displayname "New Dorp"
     participation 0
     zscore 0.48712358608166
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5241,6 +6045,8 @@ graph
     displayname "Oakwood Heights"
     participation 0
     zscore 0.48712358608166
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5254,6 +6060,8 @@ graph
     displayname "Bay Terrace"
     participation 0
     zscore 0.48712358608166
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5267,6 +6075,8 @@ graph
     displayname "Great Kills"
     participation 0
     zscore 0.637007766414478
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5280,6 +6090,8 @@ graph
     displayname "Eltingville"
     participation 0
     zscore 0.637007766414478
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5293,6 +6105,8 @@ graph
     displayname "Annadale"
     participation 0
     zscore 0.637007766414478
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5306,6 +6120,8 @@ graph
     displayname "Huguenot"
     participation 0
     zscore 0.0374710450832046
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5319,6 +6135,8 @@ graph
     displayname "Prince's Bay"
     participation 0
     zscore 0.0374710450832046
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5332,6 +6150,8 @@ graph
     displayname "Pleasant Plains"
     participation 0
     zscore 0.0374710450832046
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5345,6 +6165,8 @@ graph
     displayname "Richmond Valley"
     participation 0
     zscore 0.0374710450832046
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5358,6 +6180,8 @@ graph
     displayname "Tottenville"
     participation 0
     zscore 0.0374710450832046
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5371,6 +6195,8 @@ graph
     displayname "Arthur Kill"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5384,6 +6210,8 @@ graph
     displayname "14 St / 6 Av"
     participation 0
     zscore 0.719116192427069
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5397,6 +6225,8 @@ graph
     displayname "14 St - Union Sq"
     participation 0
     zscore 2.55841246289973
+    role "provincial_hub"
+    rolecolor "yellow"
   ]
   node
   [
@@ -5410,6 +6240,8 @@ graph
     displayname "149 St - Grand Concourse"
     participation 0
     zscore -0.273562405208377
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5423,6 +6255,8 @@ graph
     displayname "161 St - Yankee Stadium"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5436,6 +6270,8 @@ graph
     displayname "168 St - Washington Hts"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5449,6 +6285,8 @@ graph
     displayname "Court Sq - 23 St"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5462,6 +6300,8 @@ graph
     displayname "34 St - Herald Sq"
     participation 0
     zscore 2.24307103730563
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5475,6 +6315,8 @@ graph
     displayname "4 Av - 9 St"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5488,6 +6330,8 @@ graph
     displayname "42 St - Bryant Pk / 5 Av"
     participation 0
     zscore 0.928953051837271
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5501,6 +6345,8 @@ graph
     displayname "Grand Central - 42 St"
     participation 0
     zscore 1.67393251639137
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5514,6 +6360,8 @@ graph
     displayname "Times Sq - 42 St / Port Authority Bus Terminal"
     participation 0
     zscore -0.904774922086794
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5527,6 +6375,8 @@ graph
     displayname "51 St - Lexington Av / 53 St"
     participation 0
     zscore -0.40186982327687
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5540,6 +6390,8 @@ graph
     displayname "Lexington Av / 59 St"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5553,6 +6405,8 @@ graph
     displayname "59 St - Columbus Circle"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5566,6 +6420,8 @@ graph
     displayname "62 St / New Utrecht Av"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5579,6 +6435,8 @@ graph
     displayname "Jackson Hts-Roosevelt Av / 74 St"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5592,6 +6450,8 @@ graph
     displayname "Atlantic Av-Barclays Ctr"
     participation 0.417852444444444
     zscore -0.0102446623071531
+    role "non_hub_connector"
+    rolecolor "green"
   ]
   node
   [
@@ -5605,6 +6465,8 @@ graph
     displayname "14 St / 8 Av"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5618,6 +6480,8 @@ graph
     displayname "Broadway-Lafayette St / Bleecker St"
     participation 0
     zscore -1.14128099128237
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5631,6 +6495,8 @@ graph
     displayname "Borough Hall / Court St"
     participation 0.5
     zscore -0.552575203044856
+    role "non_hub_connector"
+    rolecolor "green"
   ]
   node
   [
@@ -5644,6 +6510,8 @@ graph
     displayname "Broadway Junction"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5657,6 +6525,8 @@ graph
     displayname "Brooklyn Bridge-City Hall / Chambers St"
     participation 0
     zscore 1.85944471193139
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5670,6 +6540,8 @@ graph
     displayname "Canal St"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5683,6 +6555,8 @@ graph
     displayname "Chambers St / WTC / Park Place / Cortlandt St"
     participation 0
     zscore 0.691567777923496
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5696,6 +6570,8 @@ graph
     displayname "Delancey St / Essex St"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5709,6 +6585,8 @@ graph
     displayname "Franklin Av-Medgar Evers College / Botanic Garden"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5722,6 +6600,8 @@ graph
     displayname "Franklin Av"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5735,6 +6615,8 @@ graph
     displayname "Fulton St"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5748,6 +6630,8 @@ graph
     displayname "Metropolitan Av / Lorimer St"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5761,6 +6645,8 @@ graph
     displayname "Myrtle - Wyckoff Avs"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5774,6 +6660,8 @@ graph
     displayname "South Ferry / Whitehall"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   node
   [
@@ -5787,6 +6675,8 @@ graph
     displayname "Jay St - MetroTech"
     participation 0
     zscore 0
+    role "ultraperipheral"
+    rolecolor "black"
   ]
   edge
   [
