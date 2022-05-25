@@ -13,7 +13,7 @@ graph
     latitude 40.775036
     longitude -73.912034
     displayname "Astoria-Ditmars Blvd"
-    participation 0
+    participation 0.0
     zscore -0.75949454683952
     role "ultraperipheral"
     rolecolor "black"
