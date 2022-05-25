@@ -50,7 +50,7 @@ with k<sub>s,i</sub> the degree of node i with regards to nodes in a different c
 
 ## Robustness
 
-...
+To assess the robustness of the network we focus on the main component (ignoring Staten Island) and delete nodes one by one. Robuster networks should take longer to break down into different components, while more weakly connected networks break down faster. Robustness has an impact on two types of situations: i) random failures of the network, and ii) targetted attacks on the network. Robustness against random failures can be assessed by deleting random nodes from the network. Targetted attacks will attempt to cause most damage to the network. To find out which deletions cause most damage to the network we attempt several methods: i) deleting the most central nodes, ii) the nodes with the highest z-score, iii) nodes with the highest weighted degree, and nodes with the highest non-weighted degree.
 
 # Results
 
@@ -83,6 +83,7 @@ Figure 4: part of the Brooklyn subway system<sup>10</sup>
 The inter-community metric of the participation-score for a subway network seems less insightful at first sight. The highest participation score is 0.5, these are nodes that have an equal amount of edges going to another community as they have going to their own community. For a subway network one can expect that these are stations that have 2 stops, one to a different borough, and one to the current one. While this seems less insightful, it is actually interesting that none of the larger complexes have more lines going to another borough. When we look at lower manhattan and Brooklyn (Figure 5), we can see that there are a lot of connections from Brooklyn to downtown Manhattan and that there are also a lot of nodes to support these connections. One can surmise that this adds to the robustness of the network. If all connections from Manhattan to Brooklyn would end up in Atlantic Avenue station, for example, it would be very easy to attack the network by focussing on that one station, and by doing so immediately cutting of the better part of Brooklyn from Manhattan. 
 
 ![image](https://user-images.githubusercontent.com/101331875/170294028-f16cbecb-b01c-4c16-87ff-d4bd71959a93.png)
+
 Figure 5: Some of the nodes with a participation coefficient of 0.5 connecting Brooklyn to Manhattan.
 
 Combining the insights of the z-score and participation coefficient analysis can be done by dividing the nodes into several roles depending on their scores on both metrics, as proposed by Guimerà et al. Figures 6 and 7 show the result of the clustering based on both metrics. 
@@ -90,9 +91,12 @@ Combining the insights of the z-score and participation coefficient analysis can
 ![image](https://user-images.githubusercontent.com/101331875/170305460-52a4e5fd-9aeb-46b3-902c-15433c202889.png)
 Figures 6&7: the network based on z-score (size of nodes) and participation coefficient clustering.
 
-Yellow and brown nodes are the within community hubs, while other nodes are nonhubs. The black and red nodes are "ultraperipheral" and ". Small nodes with all edges staying within the communities.
+Yellow and brown nodes are the within community hubs (transfer stations / complexes), while other nodes are nonhubs. The black and red nodes are "ultraperipheral" and "peripheral" nodes: small nodes with all edges staying within the communities. The green nodes are "connector" nodes, these have low z-scores but connect the different communities with each other. 
+
+The brown nodes are the most important ones. These serve both a connecting roll as well as being a hub within the community. Interestingly, these nodes seem to be the main drivers of trafic from the Bronx (Grand Concourse) and northern Queens (Court square) to Manhattan. Both of these nodes seem to come together in Lexington square, one of the most central nodes in the network and also the reason for the second avenue expansion. 
 
 ## Robustness
+
 
 
 # Conclusion
