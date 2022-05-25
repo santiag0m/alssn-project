@@ -27,6 +27,7 @@ The graph is made by first aggregating the stations at the complex level. This w
 Several properties are also included in the graph. First, the graph is weighted based on the number of trains that pass through the network every week. Both the nodes and the edges get this property. Second, the borough (The Bronx, Brooklyn, Manhattan, Queens and Staten Island) in which each of the nodes is located is included, and last the geographical coordinates (latitude and longitude) of the nodes. The below figure shows a first rendition of the network. The lay-out is based on the geographical coordinates, the colouring scheme is based on the boroughs, and the node and edge sizes are based on the number of trains that pass.
 
 ![image](https://user-images.githubusercontent.com/101331875/170033278-af98b507-6543-4985-b28e-97211176e481.png)
+
 Figure 1: Graph lay-out using Gephi's Geo Layout module. Edge weights and node sizes are based on # of trains.
 
 Note that there are also edges between nodes that are further away. These edges represent direct lines that skip a couple of stations (Staten Island for example clearly has this for two stations, going in a direct line to the last stop at the ferry). This has implications for the robustness analysis later on. It seems fair to assume that, if there is a node failure or a coordinated attack, not only can people no longer use the station, trains can also no longer pass through that station (or at least, this is the implicit assumption of this paper). So, a separate graph is made where these edges are removed to test for the robustness of the network.
@@ -73,12 +74,23 @@ Table 4-5: the top 10 nodes based on z-scores and participation scores respectiv
 Figures 3 and 4 give a closer look at Brooklyn, which has a very dense structure. A lot of large metro stations are only streets apart from each other. Most of these stations lie fairly close to the East River, which provide a lot of access points from Brooklyn to Manhattan. Additionally, this part of the network is responsible for funneling most of Brooklyn, as well as a part of Queens to lower Manhattan. 
 
 ![image](https://user-images.githubusercontent.com/101331875/170275990-0a56f3db-fa80-4705-91fc-57d7d9a67c59.png)
+
 Figure 3: A closer look at Brooklyn. The size of the nodes is proportional to the z-score and the top 10 nodes are named. 
 
 ![image](https://user-images.githubusercontent.com/101331875/170277482-8ad52b05-1d50-4b14-b76c-f5aeafafe432.png)
-Figure 4: part of the Brooklyn subway system
+Figure 4: part of the Brooklyn subway system<sup>10</sup>
 
+The inter-community metric of the participation-score for a subway network seems less insightful at first sight. The highest participation score is 0.5, these are nodes that have an equal amount of edges going to another community as they have going to their own community. For a subway network one can expect that these are stations that have 2 stops, one to a different borough, and one to the current one. While this seems less insightful, it is actually interesting that none of the larger complexes have more lines going to another borough. When we look at lower manhattan and Brooklyn (Figure 5), we can see that there are a lot of connections from Brooklyn to downtown Manhattan and that there are also a lot of nodes to support these connections. One can surmise that this adds to the robustness of the network. If all connections from Manhattan to Brooklyn would end up in Atlantic Avenue station, for example, it would be very easy to attack the network by focussing on that one station, and by doing so immediately cutting of the better part of Brooklyn from Manhattan. 
 
+![image](https://user-images.githubusercontent.com/101331875/170294028-f16cbecb-b01c-4c16-87ff-d4bd71959a93.png)
+Figure 5: Some of the nodes with a participation coefficient of 0.5 connecting Brooklyn to Manhattan.
+
+Combining the insights of the z-score and participation coefficient analysis can be done by dividing the nodes into several roles depending on their scores on both metrics, as proposed by Guimerà et al. Figures 6 and 7 show the result of the clustering based on both metrics. 
+
+![image](https://user-images.githubusercontent.com/101331875/170305460-52a4e5fd-9aeb-46b3-902c-15433c202889.png)
+Figures 6&7: the network based on z-score (size of nodes) and participation coefficient clustering.
+
+Yellow and brown nodes are the within community hubs, while other nodes are nonhubs. The black and red nodes are "ultraperipheral" and ". Small nodes with all edges staying within the communities.
 
 ## Robustness
 
@@ -108,6 +120,8 @@ Figure 4: part of the Brooklyn subway system
 <sup>8</sup>http://web.mta.info/developers/developer-data-terms.html#data
 
 <sup>9</sup>R. Guimerà et al. (2005) The worldwide air transportation network: Anomalous centrality, community structure, and cities’ global roles. PNAS; 102(22): 7794-7799.
+
+<sup>10</sup>Screenshot taken from https://map.mta.info/
 
 # Appendix
 
