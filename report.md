@@ -90,6 +90,7 @@ Figure 5: Some of the nodes with a participation coefficient of 0.5 connecting B
 Combining the insights of the z-score and participation coefficient analysis can be done by dividing the nodes into several roles depending on their scores on both metrics, as proposed by Guimerà et al. Figures 6 and 7 show the result of the clustering based on both metrics. 
 
 ![image](https://user-images.githubusercontent.com/101331875/170305460-52a4e5fd-9aeb-46b3-902c-15433c202889.png)
+
 Figures 6&7: the network based on z-score (size of nodes) and participation coefficient clustering.
 
 Yellow and brown nodes are the within community hubs (transfer stations / complexes), while other nodes are non-hubs. The black and red nodes are "ultraperipheral" and "peripheral" nodes: small nodes with all edges staying within the communities. The green nodes are "connector" nodes, these have low z-scores but connect the different communities with each other. 
